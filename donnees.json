@@ -251,13 +251,111 @@
    }
   ]
  },
+ "meteo": {
+  "days": [
+   {
+    "code": 1,
+    "day": "2026-11-05",
+    "emoji": "🌤️",
+    "label": "Plutôt dégagé",
+    "precip_mm": 0.0,
+    "precip_prob": 0,
+    "tmax": 10,
+    "tmin": 1,
+    "wind_kmh": 12
+   },
+   {
+    "code": 51,
+    "day": "2026-11-06",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.2,
+    "precip_prob": 26,
+    "tmax": 8,
+    "tmin": 2,
+    "wind_kmh": 8
+   },
+   {
+    "code": 3,
+    "day": "2026-11-07",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 2,
+    "tmax": 12,
+    "tmin": 6,
+    "wind_kmh": 12
+   },
+   {
+    "code": 3,
+    "day": "2026-11-08",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 4,
+    "tmax": 10,
+    "tmin": 4,
+    "wind_kmh": 11
+   },
+   {
+    "code": 3,
+    "day": "2026-11-09",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 14,
+    "tmax": 10,
+    "tmin": 1,
+    "wind_kmh": 9
+   },
+   {
+    "code": 51,
+    "day": "2026-11-10",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.1,
+    "precip_prob": 27,
+    "tmax": 10,
+    "tmin": 2,
+    "wind_kmh": 13
+   },
+   {
+    "code": 51,
+    "day": "2026-11-11",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 1.8,
+    "precip_prob": 39,
+    "tmax": 12,
+    "tmin": 4,
+    "wind_kmh": 14
+   }
+  ],
+  "read_on": "2026-11-05"
+ },
  "station_names": {
   "59264001": {
    "name": "RELAIS D'ONNAING",
    "read_on": "2026-11-05"
   },
+  "59278003": {
+   "name": "Intermarché ESCAUTPONT",
+   "read_on": "2026-11-05"
+  },
+  "59300005": {
+   "name": "ESSO VALENCIENNES",
+   "read_on": "2026-11-05"
+  },
   "59300006": {
    "name": "STATION SERVICE AUCHAN VALENCIENNES",
+   "read_on": "2026-11-05"
+  },
+  "59300013": {
+   "name": "SAS PETRO EST LECLERC VALENCIENNES",
+   "read_on": "2026-11-05"
+  },
+  "59300015": {
+   "name": "RELAIS VALENCIENNES",
    "read_on": "2026-11-05"
   },
   "59300016": {
@@ -266,6 +364,10 @@
   },
   "59300021": {
    "name": "ESSO VALENCIENNES CROIX DANZIN",
+   "read_on": "2026-11-05"
+  },
+  "59770003": {
+   "name": "Garage Barbusse",
    "read_on": "2026-11-05"
   },
   "59860003": {
