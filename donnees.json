@@ -1,0 +1,276 @@
+{
+ "agenda": {
+  "events": [
+   {
+    "all_day": false,
+    "end": null,
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-08T14:00:00+01:00",
+    "title": "Super loto traditionnel",
+    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-57/"
+   },
+   {
+    "all_day": false,
+    "end": null,
+    "place": "Église Saint-Martin",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-11T11:00:00+01:00",
+    "title": "COMMÉMORATION DU 11 NOVEMBRE",
+    "url": "https://www.ville-saint-saulve.fr/event/commemoration-du-11-novembre/"
+   },
+   {
+    "all_day": false,
+    "end": null,
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-11T14:30:00+01:00",
+    "title": "Super loto traditionnel",
+    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-61/"
+   },
+   {
+    "all_day": false,
+    "end": "2026-11-18T16:00:00+01:00",
+    "place": "O’Centr’Halle",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-18T13:00:00+01:00",
+    "title": "Forum de l’orientation",
+    "url": "https://www.ville-saint-saulve.fr/event/forum-de-lorientation-5/"
+   },
+   {
+    "all_day": false,
+    "end": null,
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-22T14:00:00+01:00",
+    "title": "Super loto traditionnel",
+    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-62/"
+   },
+   {
+    "all_day": false,
+    "end": "2026-11-29T17:00:00+01:00",
+    "place": "O’Centr’Halle",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-25T10:00:00+01:00",
+    "title": "EXPOSITION X’ARTS PAR LES MALAB’ARTS",
+    "url": "https://www.ville-saint-saulve.fr/event/exposition-xarts-par-les-malabarts/"
+   },
+   {
+    "all_day": false,
+    "end": "2026-12-06T17:00:00+01:00",
+    "place": "O’Centr’Halle",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-02T10:00:00+01:00",
+    "title": "FESTIVAL PHOTOS SUR LE THÈME DE L’AMOUR",
+    "url": "https://www.ville-saint-saulve.fr/event/festival-photos-sur-le-theme-de-lamour/"
+   },
+   {
+    "all_day": false,
+    "end": "2026-12-05T17:00:00+01:00",
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-05T09:00:00+01:00",
+    "title": "BROCANTE AMICALE DU ROLEUR",
+    "url": "https://www.ville-saint-saulve.fr/event/brocante-amicale-du-roleur/"
+   },
+   {
+    "all_day": false,
+    "end": null,
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-06T14:00:00+01:00",
+    "title": "Super loto traditionnel",
+    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-59/"
+   },
+   {
+    "all_day": false,
+    "end": "2026-12-18T22:00:00+01:00",
+    "place": "O’Centr’Halle",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-18T20:30:00+01:00",
+    "title": "CONCERT-HOMMAGE À DANIEL BALAVOINE",
+    "url": "https://www.ville-saint-saulve.fr/event/concert-hommage-a-daniel-balavoine/"
+   },
+   {
+    "all_day": false,
+    "end": null,
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-27T14:00:00+01:00",
+    "title": "Super loto traditionnel",
+    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
+   }
+  ],
+  "read_on": "2026-11-05"
+ },
+ "carburants": {
+  "read_on": "2026-11-05",
+  "stations": [
+   {
+    "address": "36 AV DE ST AMAND",
+    "id": 59300021,
+    "postcode": "59300",
+    "prices": {
+     "e10": 2.139,
+     "gazole": 2.289
+    },
+    "town": "Valenciennes"
+   },
+   {
+    "address": "ECHANGEUR 24",
+    "id": 59264001,
+    "postcode": "59264",
+    "prices": {
+     "e10": 1.972,
+     "gazole": 2.127
+    },
+    "town": "Onnaing"
+   },
+   {
+    "address": "386-388 Rue Jean Jaurès",
+    "id": 59860003,
+    "postcode": "59860",
+    "prices": {
+     "e10": 2.009,
+     "gazole": 2.179
+    },
+    "town": "Bruay-sur-l'Escaut"
+   },
+   {
+    "address": "Chemin des Bourgeois",
+    "id": 59300006,
+    "postcode": "59300",
+    "prices": {
+     "e10": 1.969,
+     "gazole": 2.157
+    },
+    "town": "Valenciennes"
+   },
+   {
+    "address": "27 BD SALY",
+    "id": 59300016,
+    "postcode": "59300",
+    "prices": {
+     "e10": 1.969,
+     "gazole": 2.127
+    },
+    "town": "Valenciennes"
+   },
+   {
+    "address": "9-12 RUE E. MACAREZ",
+    "id": 59300015,
+    "postcode": "59300",
+    "prices": {
+     "gazole": 2.127
+    },
+    "town": "Valenciennes"
+   },
+   {
+    "address": "3 Boulevard Eisen",
+    "id": 59300005,
+    "postcode": "59300",
+    "prices": {
+     "e10": 2.042,
+     "gazole": 2.285
+    },
+    "town": "Valenciennes"
+   },
+   {
+    "address": "Rue Ernest Macarez",
+    "id": 59300013,
+    "postcode": "59300",
+    "prices": {
+     "e10": 2.041,
+     "gazole": 2.178
+    },
+    "town": "Valenciennes"
+   },
+   {
+    "address": "373 Avenue Henri Barbusse",
+    "id": 59770003,
+    "postcode": "59770",
+    "prices": {
+     "e10": 1.99
+    },
+    "town": "Marly"
+   },
+   {
+    "address": "10 RUE JEAN JAURES",
+    "id": 59278003,
+    "postcode": "59278",
+    "prices": {
+     "e10": 2.023,
+     "gazole": 2.194
+    },
+    "town": "Escautpont"
+   },
+   {
+    "address": "125 Rue Jean Jaurès",
+    "id": 59880003,
+    "postcode": "59880",
+    "prices": {
+     "e10": 2.134,
+     "gazole": 2.203
+    },
+    "town": "Saint-Saulve"
+   },
+   {
+    "address": "59 Avenue de Verdun",
+    "id": 59300026,
+    "postcode": "59300",
+    "prices": {},
+    "town": "Valenciennes"
+   },
+   {
+    "address": "221 avenue Jean Jaurès",
+    "id": 59243002,
+    "postcode": "59243",
+    "prices": {
+     "gazole": 2.141
+    },
+    "town": "Quarouble"
+   },
+   {
+    "address": "Avenue Henri Barbusse",
+    "id": 59770002,
+    "postcode": "59770",
+    "prices": {
+     "e10": 2.06,
+     "gazole": 2.238
+    },
+    "town": "Saultain"
+   },
+   {
+    "address": "27 boulevard saly",
+    "id": 59300023,
+    "postcode": "59300",
+    "prices": {
+     "gazole": 2.135
+    },
+    "town": "Valenciennes"
+   }
+  ]
+ },
+ "station_names": {
+  "59264001": {
+   "name": "RELAIS D'ONNAING",
+   "read_on": "2026-11-05"
+  },
+  "59300006": {
+   "name": "STATION SERVICE AUCHAN VALENCIENNES",
+   "read_on": "2026-11-05"
+  },
+  "59300016": {
+   "name": "RELAIS DENTELLIERES VALENCIENNES",
+   "read_on": "2026-11-05"
+  },
+  "59300021": {
+   "name": "ESSO VALENCIENNES CROIX DANZIN",
+   "read_on": "2026-11-05"
+  },
+  "59860003": {
+   "name": "SUPER U BRUAY SUR L ESCAUT",
+   "read_on": "2026-11-05"
+  }
+ }
+}
