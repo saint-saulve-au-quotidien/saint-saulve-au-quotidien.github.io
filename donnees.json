@@ -254,10 +254,10 @@
  "meteo": {
   "days": [
    {
-    "code": 1,
+    "code": 0,
     "day": "2026-11-05",
-    "emoji": "🌤️",
-    "label": "Plutôt dégagé",
+    "emoji": "☀️",
+    "label": "Ciel dégagé",
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 10,
@@ -269,11 +269,11 @@
     "day": "2026-11-06",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.2,
+    "precip_mm": 0.1,
     "precip_prob": 26,
     "tmax": 8,
     "tmin": 2,
-    "wind_kmh": 8
+    "wind_kmh": 7
    },
    {
     "code": 3,
@@ -283,7 +283,7 @@
     "precip_mm": 0.0,
     "precip_prob": 2,
     "tmax": 12,
-    "tmin": 6,
+    "tmin": 4,
     "wind_kmh": 12
    },
    {
@@ -334,6 +334,10 @@
   "read_on": "2026-11-05"
  },
  "station_names": {
+  "59243002": {
+   "name": "NETTO QUAROUBLE",
+   "read_on": "2026-11-05"
+  },
   "59264001": {
    "name": "RELAIS D'ONNAING",
    "read_on": "2026-11-05"
@@ -366,12 +370,24 @@
    "name": "ESSO VALENCIENNES CROIX DANZIN",
    "read_on": "2026-11-05"
   },
+  "59300023": {
+   "name": "Relais dentellieres",
+   "read_on": "2026-11-05"
+  },
+  "59770002": {
+   "name": "Carrefour Market",
+   "read_on": "2026-11-05"
+  },
   "59770003": {
    "name": "Garage Barbusse",
    "read_on": "2026-11-05"
   },
   "59860003": {
    "name": "SUPER U BRUAY SUR L ESCAUT",
+   "read_on": "2026-11-05"
+  },
+  "59880003": {
+   "name": "AUCHAN SUPERMARCHE ST SAULVE",
    "read_on": "2026-11-05"
   }
  }
