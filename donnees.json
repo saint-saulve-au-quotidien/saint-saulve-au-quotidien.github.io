@@ -141,8 +141,8 @@
     "id": 59300006,
     "postcode": "59300",
     "prices": {
-     "e10": 1.969,
-     "gazole": 2.157
+     "e10": 1.949,
+     "gazole": 2.079
     },
     "town": "Valenciennes"
    },
@@ -233,8 +233,8 @@
     "id": 59770002,
     "postcode": "59770",
     "prices": {
-     "e10": 2.06,
-     "gazole": 2.238
+     "e10": 1.992,
+     "gazole": 2.237
     },
     "town": "Saultain"
    },
@@ -259,20 +259,20 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 44,
-    "tmax": 9,
-    "tmin": 3,
-    "wind_kmh": 7
+    "tmax": 8,
+    "tmin": 2,
+    "wind_kmh": 5
    },
    {
     "code": 51,
     "day": "2026-11-07",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.3,
+    "precip_mm": 2.0,
     "precip_prob": 4,
     "tmax": 9,
-    "tmin": 5,
-    "wind_kmh": 10
+    "tmin": 6,
+    "wind_kmh": 11
    },
    {
     "code": 3,
@@ -281,9 +281,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 8,
-    "tmax": 11,
-    "tmin": 3,
-    "wind_kmh": 11
+    "tmax": 10,
+    "tmin": 4,
+    "wind_kmh": 10
    },
    {
     "code": 3,
@@ -293,7 +293,7 @@
     "precip_mm": 0.0,
     "precip_prob": 5,
     "tmax": 11,
-    "tmin": 1,
+    "tmin": 2,
     "wind_kmh": 9
    },
    {
@@ -303,31 +303,31 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 37,
-    "tmax": 11,
+    "tmax": 12,
     "tmin": 4,
-    "wind_kmh": 12
+    "wind_kmh": 11
    },
    {
-    "code": 80,
+    "code": 53,
     "day": "2026-11-11",
     "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 6.3,
+    "label": "Bruine",
+    "precip_mm": 3.9,
     "precip_prob": 31,
     "tmax": 17,
-    "tmin": 10,
-    "wind_kmh": 18
+    "tmin": 11,
+    "wind_kmh": 20
    },
    {
-    "code": 51,
+    "code": 53,
     "day": "2026-11-12",
     "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 2.4,
+    "label": "Bruine",
+    "precip_mm": 4.4,
     "precip_prob": 36,
     "tmax": 16,
     "tmin": 12,
-    "wind_kmh": 15
+    "wind_kmh": 14
    }
   ],
   "read_on": "2026-11-06"
