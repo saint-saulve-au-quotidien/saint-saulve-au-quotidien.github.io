@@ -186,9 +186,7 @@
     "address": "373 Avenue Henri Barbusse",
     "id": 59770003,
     "postcode": "59770",
-    "prices": {
-     "e10": 1.99
-    },
+    "prices": {},
     "town": "Marly"
    },
    {
@@ -205,10 +203,7 @@
     "address": "125 Rue Jean Jaurès",
     "id": 59880003,
     "postcode": "59880",
-    "prices": {
-     "e10": 2.134,
-     "gazole": 2.203
-    },
+    "prices": {},
     "town": "Saint-Saulve"
    },
    {
@@ -256,9 +251,9 @@
     "day": "2026-11-06",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 1.1,
-    "precip_prob": 40,
-    "tmax": 6,
+    "precip_mm": 0.5,
+    "precip_prob": 24,
+    "tmax": 7,
     "tmin": 2,
     "wind_kmh": 7
    },
@@ -268,21 +263,21 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 1.6,
-    "precip_prob": 10,
-    "tmax": 9,
+    "precip_prob": 14,
+    "tmax": 11,
     "tmin": 5,
-    "wind_kmh": 10
+    "wind_kmh": 11
    },
    {
-    "code": 51,
+    "code": 3,
     "day": "2026-11-08",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.3,
-    "precip_prob": 18,
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 10,
     "tmax": 11,
     "tmin": 4,
-    "wind_kmh": 13
+    "wind_kmh": 14
    },
    {
     "code": 1,
@@ -290,10 +285,10 @@
     "emoji": "🌤️",
     "label": "Plutôt dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 7,
+    "precip_prob": 13,
     "tmax": 11,
     "tmin": 2,
-    "wind_kmh": 9
+    "wind_kmh": 10
    },
    {
     "code": 45,
@@ -301,7 +296,7 @@
     "emoji": "🌫️",
     "label": "Brouillard",
     "precip_mm": 0.0,
-    "precip_prob": 29,
+    "precip_prob": 33,
     "tmax": 11,
     "tmin": 2,
     "wind_kmh": 11
@@ -312,7 +307,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 3.0,
-    "precip_prob": 41,
+    "precip_prob": 39,
     "tmax": 16,
     "tmin": 10,
     "wind_kmh": 19
