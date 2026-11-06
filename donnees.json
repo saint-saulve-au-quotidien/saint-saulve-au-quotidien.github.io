@@ -245,7 +245,8 @@
     "id": 59300023,
     "postcode": "59300",
     "prices": {
-     "gazole": 2.135
+     "e10": 1.969,
+     "gazole": 2.091
     },
     "town": "Valenciennes"
    }
