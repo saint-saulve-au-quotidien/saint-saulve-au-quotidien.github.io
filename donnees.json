@@ -169,10 +169,7 @@
     "address": "3 Boulevard Eisen",
     "id": 59300005,
     "postcode": "59300",
-    "prices": {
-     "e10": 2.042,
-     "gazole": 2.285
-    },
+    "prices": {},
     "town": "Valenciennes"
    },
    {
@@ -226,7 +223,8 @@
     "id": 59243002,
     "postcode": "59243",
     "prices": {
-     "gazole": 2.141
+     "e10": 2.007,
+     "gazole": 2.161
     },
     "town": "Quarouble"
    },
