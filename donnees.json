@@ -131,8 +131,8 @@
     "id": 59860003,
     "postcode": "59860",
     "prices": {
-     "e10": 2.009,
-     "gazole": 2.179
+     "e10": 1.989,
+     "gazole": 2.159
     },
     "town": "Bruay-sur-l'Escaut"
    },
@@ -256,39 +256,39 @@
     "day": "2026-11-06",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 1.5,
+    "precip_mm": 1.1,
     "precip_prob": 40,
     "tmax": 6,
     "tmin": 2,
     "wind_kmh": 7
    },
    {
-    "code": 51,
+    "code": 53,
     "day": "2026-11-07",
     "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.7,
+    "label": "Bruine",
+    "precip_mm": 1.6,
     "precip_prob": 10,
     "tmax": 9,
-    "tmin": 4,
+    "tmin": 5,
     "wind_kmh": 10
    },
    {
-    "code": 3,
+    "code": 51,
     "day": "2026-11-08",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
-    "precip_mm": 0.0,
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.3,
     "precip_prob": 18,
-    "tmax": 10,
+    "tmax": 11,
     "tmin": 4,
-    "wind_kmh": 15
+    "wind_kmh": 13
    },
    {
-    "code": 3,
+    "code": 1,
     "day": "2026-11-09",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
+    "emoji": "🌤️",
+    "label": "Plutôt dégagé",
     "precip_mm": 0.0,
     "precip_prob": 7,
     "tmax": 11,
@@ -296,14 +296,14 @@
     "wind_kmh": 9
    },
    {
-    "code": 3,
+    "code": 45,
     "day": "2026-11-10",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
+    "emoji": "🌫️",
+    "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 29,
-    "tmax": 12,
-    "tmin": 4,
+    "tmax": 11,
+    "tmin": 2,
     "wind_kmh": 11
    },
    {
@@ -311,11 +311,11 @@
     "day": "2026-11-11",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 3.9,
+    "precip_mm": 3.0,
     "precip_prob": 41,
-    "tmax": 17,
-    "tmin": 11,
-    "wind_kmh": 20
+    "tmax": 16,
+    "tmin": 10,
+    "wind_kmh": 19
    },
    {
     "code": 53,
@@ -325,7 +325,7 @@
     "precip_mm": 4.4,
     "precip_prob": 51,
     "tmax": 16,
-    "tmin": 12,
+    "tmin": 11,
     "wind_kmh": 14
    }
   ],
