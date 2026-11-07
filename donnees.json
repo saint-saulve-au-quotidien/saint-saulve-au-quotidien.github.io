@@ -161,7 +161,6 @@
     "id": 59300015,
     "postcode": "59300",
     "prices": {
-     "e10": 1.969,
      "gazole": 2.06
     },
     "town": "Valenciennes"
@@ -253,30 +252,30 @@
     "day": "2026-11-07",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 6.8,
-    "precip_prob": 78,
-    "tmax": 8,
+    "precip_mm": 7.3,
+    "precip_prob": 94,
+    "tmax": 9,
     "tmin": 6,
-    "wind_kmh": 11
+    "wind_kmh": 12
    },
    {
-    "code": 51,
+    "code": 55,
     "day": "2026-11-08",
     "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.1,
+    "label": "Bruine dense",
+    "precip_mm": 3.1,
     "precip_prob": 22,
     "tmax": 10,
     "tmin": 4,
     "wind_kmh": 15
    },
    {
-    "code": 3,
+    "code": 0,
     "day": "2026-11-09",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
+    "emoji": "☀️",
+    "label": "Ciel dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 3,
+    "precip_prob": 5,
     "tmax": 11,
     "tmin": 2,
     "wind_kmh": 11
@@ -286,33 +285,33 @@
     "day": "2026-11-10",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 1.4,
-    "precip_prob": 35,
-    "tmax": 12,
-    "tmin": 4,
+    "precip_mm": 0.2,
+    "precip_prob": 30,
+    "tmax": 11,
+    "tmin": 3,
     "wind_kmh": 12
    },
    {
-    "code": 80,
+    "code": 51,
     "day": "2026-11-11",
     "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 7.1,
-    "precip_prob": 61,
-    "tmax": 16,
-    "tmin": 11,
+    "label": "Bruine faible",
+    "precip_mm": 2.2,
+    "precip_prob": 65,
+    "tmax": 15,
+    "tmin": 10,
     "wind_kmh": 15
    },
    {
-    "code": 51,
+    "code": 53,
     "day": "2026-11-12",
     "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 1.2,
-    "precip_prob": 46,
-    "tmax": 13,
-    "tmin": 9,
-    "wind_kmh": 19
+    "label": "Bruine",
+    "precip_mm": 3.3,
+    "precip_prob": 35,
+    "tmax": 11,
+    "tmin": 7,
+    "wind_kmh": 15
    },
    {
     "code": 3,
@@ -320,10 +319,10 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 43,
+    "precip_prob": 32,
     "tmax": 10,
     "tmin": 3,
-    "wind_kmh": 19
+    "wind_kmh": 15
    }
   ],
   "read_on": "2026-11-07"
