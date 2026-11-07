@@ -252,22 +252,22 @@
     "day": "2026-11-07",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 2.9,
+    "precip_mm": 5.8,
     "precip_prob": 71,
-    "tmax": 9,
-    "tmin": 6,
-    "wind_kmh": 11
+    "tmax": 8,
+    "tmin": 5,
+    "wind_kmh": 9
    },
    {
     "code": 51,
     "day": "2026-11-08",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.2,
+    "precip_mm": 1.1,
     "precip_prob": 19,
     "tmax": 11,
     "tmin": 4,
-    "wind_kmh": 16
+    "wind_kmh": 12
    },
    {
     "code": 2,
