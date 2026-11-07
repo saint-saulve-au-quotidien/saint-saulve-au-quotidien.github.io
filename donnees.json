@@ -121,8 +121,8 @@
     "id": 59264001,
     "postcode": "59264",
     "prices": {
-     "e10": 1.972,
-     "gazole": 2.121
+     "e10": 1.974,
+     "gazole": 2.06
     },
     "town": "Onnaing"
    },
@@ -178,8 +178,8 @@
     "id": 59300013,
     "postcode": "59300",
     "prices": {
-     "e10": 2.008,
-     "gazole": 2.107
+     "e10": 1.988,
+     "gazole": 2.11
     },
     "town": "Valenciennes"
    },
@@ -229,7 +229,7 @@
     "id": 59770002,
     "postcode": "59770",
     "prices": {
-     "e10": 1.992,
+     "e10": 1.971,
      "gazole": 2.237
     },
     "town": "Saultain"
@@ -253,77 +253,77 @@
     "day": "2026-11-07",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 4.8,
+    "precip_mm": 7.8,
     "precip_prob": 71,
     "tmax": 8,
     "tmin": 6,
     "wind_kmh": 11
    },
    {
-    "code": 45,
+    "code": 51,
     "day": "2026-11-08",
-    "emoji": "🌫️",
-    "label": "Brouillard",
-    "precip_mm": 0.0,
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.3,
     "precip_prob": 19,
-    "tmax": 8,
-    "tmin": 3,
-    "wind_kmh": 15
+    "tmax": 10,
+    "tmin": 4,
+    "wind_kmh": 14
    },
    {
-    "code": 45,
+    "code": 3,
     "day": "2026-11-09",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 3,
     "tmax": 11,
-    "tmin": 1,
-    "wind_kmh": 9
+    "tmin": 2,
+    "wind_kmh": 12
    },
    {
-    "code": 55,
+    "code": 51,
     "day": "2026-11-10",
     "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 3.0,
+    "label": "Bruine faible",
+    "precip_mm": 1.4,
     "precip_prob": 18,
     "tmax": 12,
     "tmin": 4,
     "wind_kmh": 12
    },
    {
-    "code": 53,
+    "code": 80,
     "day": "2026-11-11",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 3.2,
+    "label": "Averses faibles",
+    "precip_mm": 7.1,
     "precip_prob": 47,
     "tmax": 16,
     "tmin": 11,
     "wind_kmh": 15
    },
    {
-    "code": 61,
+    "code": 51,
     "day": "2026-11-12",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 10.1,
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 1.2,
     "precip_prob": 63,
-    "tmax": 12,
-    "tmin": 8,
-    "wind_kmh": 23
+    "tmax": 13,
+    "tmin": 9,
+    "wind_kmh": 19
    },
    {
-    "code": 61,
+    "code": 3,
     "day": "2026-11-13",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 5.2,
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
     "precip_prob": 58,
-    "tmax": 12,
+    "tmax": 10,
     "tmin": 3,
-    "wind_kmh": 25
+    "wind_kmh": 19
    }
   ],
   "read_on": "2026-11-07"
