@@ -101,10 +101,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-06"
+  "read_on": "2026-11-07"
  },
  "carburants": {
-  "read_on": "2026-11-06",
+  "read_on": "2026-11-07",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -247,25 +247,14 @@
  "meteo": {
   "days": [
    {
-    "code": 51,
-    "day": "2026-11-06",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.5,
-    "precip_prob": 24,
-    "tmax": 7,
-    "tmin": 2,
-    "wind_kmh": 7
-   },
-   {
     "code": 61,
     "day": "2026-11-07",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 3.4,
-    "precip_prob": 14,
-    "tmax": 8,
-    "tmin": 6,
+    "precip_mm": 5.5,
+    "precip_prob": 47,
+    "tmax": 11,
+    "tmin": 5,
     "wind_kmh": 10
    },
    {
@@ -273,8 +262,8 @@
     "day": "2026-11-08",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.1,
-    "precip_prob": 10,
+    "precip_mm": 0.3,
+    "precip_prob": 18,
     "tmax": 10,
     "tmin": 4,
     "wind_kmh": 14
@@ -285,10 +274,10 @@
     "emoji": "☀️",
     "label": "Ciel dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 13,
+    "precip_prob": 0,
     "tmax": 11,
-    "tmin": 2,
-    "wind_kmh": 11
+    "tmin": 1,
+    "wind_kmh": 12
    },
    {
     "code": 45,
@@ -296,7 +285,7 @@
     "emoji": "🌫️",
     "label": "Brouillard",
     "precip_mm": 0.0,
-    "precip_prob": 33,
+    "precip_prob": 6,
     "tmax": 9,
     "tmin": 1,
     "wind_kmh": 11
@@ -307,7 +296,7 @@
     "emoji": "🌦️",
     "label": "Bruine dense",
     "precip_mm": 3.3,
-    "precip_prob": 39,
+    "precip_prob": 37,
     "tmax": 13,
     "tmin": 5,
     "wind_kmh": 15
@@ -318,13 +307,24 @@
     "emoji": "🌦️",
     "label": "Averses faibles",
     "precip_mm": 20.9,
-    "precip_prob": 51,
+    "precip_prob": 67,
     "tmax": 15,
     "tmin": 9,
     "wind_kmh": 23
+   },
+   {
+    "code": 61,
+    "day": "2026-11-13",
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 5.2,
+    "precip_prob": 58,
+    "tmax": 12,
+    "tmin": 3,
+    "wind_kmh": 25
    }
   ],
-  "read_on": "2026-11-06"
+  "read_on": "2026-11-07"
  },
  "station_names": {
   "59243002": {
