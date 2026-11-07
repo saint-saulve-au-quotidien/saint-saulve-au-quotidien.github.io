@@ -239,7 +239,8 @@
     "id": 59300023,
     "postcode": "59300",
     "prices": {
-     "gazole": 2.091
+     "e10": 1.972,
+     "gazole": 2.06
     },
     "town": "Valenciennes"
    }
@@ -252,33 +253,33 @@
     "day": "2026-11-07",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 5.8,
+    "precip_mm": 4.8,
     "precip_prob": 71,
     "tmax": 8,
-    "tmin": 5,
-    "wind_kmh": 9
+    "tmin": 6,
+    "wind_kmh": 11
    },
    {
-    "code": 51,
+    "code": 45,
     "day": "2026-11-08",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 1.1,
+    "emoji": "🌫️",
+    "label": "Brouillard",
+    "precip_mm": 0.0,
     "precip_prob": 19,
-    "tmax": 11,
-    "tmin": 4,
-    "wind_kmh": 12
+    "tmax": 8,
+    "tmin": 3,
+    "wind_kmh": 15
    },
    {
-    "code": 2,
+    "code": 45,
     "day": "2026-11-09",
-    "emoji": "⛅",
-    "label": "Éclaircies",
+    "emoji": "🌫️",
+    "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 3,
     "tmax": 11,
     "tmin": 1,
-    "wind_kmh": 11
+    "wind_kmh": 9
    },
    {
     "code": 55,
@@ -288,8 +289,8 @@
     "precip_mm": 3.0,
     "precip_prob": 18,
     "tmax": 12,
-    "tmin": 3,
-    "wind_kmh": 11
+    "tmin": 4,
+    "wind_kmh": 12
    },
    {
     "code": 53,
@@ -298,9 +299,9 @@
     "label": "Bruine",
     "precip_mm": 3.2,
     "precip_prob": 47,
-    "tmax": 15,
-    "tmin": 10,
-    "wind_kmh": 13
+    "tmax": 16,
+    "tmin": 11,
+    "wind_kmh": 15
    },
    {
     "code": 61,
@@ -311,7 +312,7 @@
     "precip_prob": 63,
     "tmax": 12,
     "tmin": 8,
-    "wind_kmh": 24
+    "wind_kmh": 23
    },
    {
     "code": 61,
