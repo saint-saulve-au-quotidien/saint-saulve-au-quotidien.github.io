@@ -253,10 +253,10 @@
     "wind_kmh": 15
    },
    {
-    "code": 2,
+    "code": 1,
     "day": "2026-11-09",
-    "emoji": "⛅",
-    "label": "Éclaircies",
+    "emoji": "🌤️",
+    "label": "Plutôt dégagé",
     "precip_mm": 0.0,
     "precip_prob": 3,
     "tmax": 11,
@@ -264,26 +264,26 @@
     "wind_kmh": 9
    },
    {
-    "code": 55,
+    "code": 61,
     "day": "2026-11-10",
-    "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 4.0,
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 4.1,
     "precip_prob": 59,
-    "tmax": 10,
+    "tmax": 11,
     "tmin": 1,
-    "wind_kmh": 10
+    "wind_kmh": 13
    },
    {
-    "code": 63,
+    "code": 53,
     "day": "2026-11-11",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 4.67,
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 1.95,
     "precip_prob": 71,
     "tmax": 13,
     "tmin": 10,
-    "wind_kmh": 11
+    "wind_kmh": 14
    },
    {
     "code": 51,
