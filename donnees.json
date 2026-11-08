@@ -159,9 +159,7 @@
     "address": "9-12 RUE E. MACAREZ",
     "id": 59300015,
     "postcode": "59300",
-    "prices": {
-     "gazole": 2.06
-    },
+    "prices": {},
     "town": "Valenciennes"
    },
    {
@@ -253,64 +251,64 @@
     "label": "Bruine",
     "precip_mm": 0.9,
     "precip_prob": 38,
-    "tmax": 10,
-    "tmin": 4,
+    "tmax": 9,
+    "tmin": 3,
     "wind_kmh": 15
    },
    {
-    "code": 2,
+    "code": 0,
     "day": "2026-11-09",
-    "emoji": "⛅",
-    "label": "Éclaircies",
+    "emoji": "☀️",
+    "label": "Ciel dégagé",
     "precip_mm": 0.0,
     "precip_prob": 5,
     "tmax": 11,
-    "tmin": 2,
-    "wind_kmh": 10
+    "tmin": 1,
+    "wind_kmh": 8
    },
    {
     "code": 51,
     "day": "2026-11-10",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 1.05,
+    "precip_mm": 1.63,
     "precip_prob": 43,
-    "tmax": 12,
-    "tmin": 2,
-    "wind_kmh": 12
+    "tmax": 11,
+    "tmin": 1,
+    "wind_kmh": 9
    },
    {
     "code": 53,
     "day": "2026-11-11",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 2.9,
+    "precip_mm": 2.3,
     "precip_prob": 68,
-    "tmax": 14,
+    "tmax": 13,
     "tmin": 10,
+    "wind_kmh": 8
+   },
+   {
+    "code": 51,
+    "day": "2026-11-12",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.6,
+    "precip_prob": 27,
+    "tmax": 10,
+    "tmin": 5,
     "wind_kmh": 13
    },
    {
-    "code": 53,
-    "day": "2026-11-12",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 3.0,
-    "precip_prob": 27,
-    "tmax": 12,
-    "tmin": 6,
-    "wind_kmh": 18
-   },
-   {
-    "code": 3,
+    "code": 2,
     "day": "2026-11-13",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
+    "emoji": "⛅",
+    "label": "Éclaircies",
     "precip_mm": 0.0,
     "precip_prob": 9,
-    "tmax": 10,
+    "tmax": 9,
     "tmin": 2,
-    "wind_kmh": 17
+    "wind_kmh": 12
    },
    {
     "code": 0,
