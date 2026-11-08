@@ -253,18 +253,18 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 34,
+    "precip_prob": 47,
     "tmax": 9,
     "tmin": 3,
     "wind_kmh": 13
    },
    {
-    "code": 3,
+    "code": 2,
     "day": "2026-11-09",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
+    "emoji": "⛅",
+    "label": "Éclaircies",
     "precip_mm": 0.0,
-    "precip_prob": 4,
+    "precip_prob": 11,
     "tmax": 11,
     "tmin": 1,
     "wind_kmh": 9
@@ -274,33 +274,33 @@
     "day": "2026-11-10",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.2,
-    "precip_prob": 25,
+    "precip_mm": 0.6,
+    "precip_prob": 42,
     "tmax": 11,
-    "tmin": 1,
-    "wind_kmh": 10
+    "tmin": 2,
+    "wind_kmh": 12
    },
    {
-    "code": 80,
+    "code": 55,
     "day": "2026-11-11",
     "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 12.5,
-    "precip_prob": 56,
-    "tmax": 14,
-    "tmin": 10,
-    "wind_kmh": 16
+    "label": "Bruine dense",
+    "precip_mm": 7.7,
+    "precip_prob": 58,
+    "tmax": 15,
+    "tmin": 11,
+    "wind_kmh": 17
    },
    {
     "code": 53,
     "day": "2026-11-12",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 1.6,
-    "precip_prob": 35,
+    "precip_mm": 2.9,
+    "precip_prob": 37,
     "tmax": 12,
     "tmin": 4,
-    "wind_kmh": 17
+    "wind_kmh": 15
    },
    {
     "code": 1,
@@ -308,10 +308,10 @@
     "emoji": "🌤️",
     "label": "Plutôt dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 12,
-    "tmax": 9,
+    "precip_prob": 25,
+    "tmax": 10,
     "tmin": 2,
-    "wind_kmh": 11
+    "wind_kmh": 12
    },
    {
     "code": 2,
