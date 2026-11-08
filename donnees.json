@@ -159,9 +159,7 @@
     "address": "9-12 RUE E. MACAREZ",
     "id": 59300015,
     "postcode": "59300",
-    "prices": {
-     "gazole": 2.06
-    },
+    "prices": {},
     "town": "Valenciennes"
    },
    {
@@ -192,10 +190,7 @@
     "address": "10 RUE JEAN JAURES",
     "id": 59278003,
     "postcode": "59278",
-    "prices": {
-     "e10": 2.023,
-     "gazole": 2.194
-    },
+    "prices": {},
     "town": "Escautpont"
    },
    {
@@ -252,8 +247,8 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 0.9,
-    "precip_prob": 38,
-    "tmax": 9,
+    "precip_prob": 37,
+    "tmax": 10,
     "tmin": 3,
     "wind_kmh": 15
    },
@@ -263,21 +258,21 @@
     "emoji": "☀️",
     "label": "Ciel dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 5,
+    "precip_prob": 3,
     "tmax": 11,
     "tmin": 2,
-    "wind_kmh": 8
+    "wind_kmh": 9
    },
    {
-    "code": 51,
+    "code": 55,
     "day": "2026-11-10",
     "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.85,
-    "precip_prob": 43,
+    "label": "Bruine dense",
+    "precip_mm": 3.38,
+    "precip_prob": 59,
     "tmax": 11,
     "tmin": 1,
-    "wind_kmh": 9
+    "wind_kmh": 10
    },
    {
     "code": 53,
@@ -285,7 +280,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 2.23,
-    "precip_prob": 68,
+    "precip_prob": 71,
     "tmax": 13,
     "tmin": 10,
     "wind_kmh": 8
@@ -296,7 +291,7 @@
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 0.6,
-    "precip_prob": 27,
+    "precip_prob": 37,
     "tmax": 10,
     "tmin": 5,
     "wind_kmh": 13
@@ -307,7 +302,7 @@
     "emoji": "⛅",
     "label": "Éclaircies",
     "precip_mm": 0.0,
-    "precip_prob": 9,
+    "precip_prob": 8,
     "tmax": 9,
     "tmin": 2,
     "wind_kmh": 12
