@@ -101,10 +101,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-07"
+  "read_on": "2026-11-08"
  },
  "carburants": {
-  "read_on": "2026-11-07",
+  "read_on": "2026-11-08",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -248,37 +248,26 @@
  "meteo": {
   "days": [
    {
-    "code": 61,
-    "day": "2026-11-07",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 7.6,
-    "precip_prob": 94,
-    "tmax": 9,
-    "tmin": 5,
-    "wind_kmh": 10
-   },
-   {
-    "code": 45,
+    "code": 3,
     "day": "2026-11-08",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 22,
-    "tmax": 10,
+    "precip_prob": 34,
+    "tmax": 9,
     "tmin": 3,
     "wind_kmh": 13
    },
    {
-    "code": 45,
+    "code": 3,
     "day": "2026-11-09",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 5,
+    "precip_prob": 4,
     "tmax": 11,
-    "tmin": -1,
-    "wind_kmh": 8
+    "tmin": 1,
+    "wind_kmh": 9
    },
    {
     "code": 51,
@@ -286,10 +275,10 @@
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 0.2,
-    "precip_prob": 30,
+    "precip_prob": 25,
     "tmax": 11,
-    "tmin": 3,
-    "wind_kmh": 11
+    "tmin": 1,
+    "wind_kmh": 10
    },
    {
     "code": 80,
@@ -297,7 +286,7 @@
     "emoji": "🌦️",
     "label": "Averses faibles",
     "precip_mm": 12.5,
-    "precip_prob": 65,
+    "precip_prob": 56,
     "tmax": 14,
     "tmin": 10,
     "wind_kmh": 16
@@ -319,13 +308,24 @@
     "emoji": "🌤️",
     "label": "Plutôt dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 32,
+    "precip_prob": 12,
     "tmax": 9,
     "tmin": 2,
     "wind_kmh": 11
+   },
+   {
+    "code": 2,
+    "day": "2026-11-14",
+    "emoji": "⛅",
+    "label": "Éclaircies",
+    "precip_mm": 0.0,
+    "precip_prob": 2,
+    "tmax": 9,
+    "tmin": 0,
+    "wind_kmh": 10
    }
   ],
-  "read_on": "2026-11-07"
+  "read_on": "2026-11-08"
  },
  "station_names": {
   "59243002": {
