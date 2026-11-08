@@ -121,7 +121,6 @@
     "id": 59264001,
     "postcode": "59264",
     "prices": {
-     "e10": 1.974,
      "gazole": 2.06
     },
     "town": "Onnaing"
@@ -254,8 +253,8 @@
     "label": "Bruine",
     "precip_mm": 0.9,
     "precip_prob": 38,
-    "tmax": 9,
-    "tmin": 3,
+    "tmax": 10,
+    "tmin": 4,
     "wind_kmh": 15
    },
    {
@@ -274,11 +273,11 @@
     "day": "2026-11-10",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 1.78,
+    "precip_mm": 1.05,
     "precip_prob": 43,
     "tmax": 12,
     "tmin": 2,
-    "wind_kmh": 13
+    "wind_kmh": 12
    },
    {
     "code": 53,
