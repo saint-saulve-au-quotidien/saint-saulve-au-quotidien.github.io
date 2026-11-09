@@ -229,12 +229,12 @@
  "meteo": {
   "days": [
    {
-    "code": 2,
+    "code": 3,
     "day": "2026-11-09",
-    "emoji": "⛅",
-    "label": "Éclaircies",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 2,
+    "precip_prob": 1,
     "tmax": 10,
     "tmin": 1,
     "wind_kmh": 9
@@ -244,10 +244,10 @@
     "day": "2026-11-10",
     "emoji": "🌦️",
     "label": "Bruine dense",
-    "precip_mm": 5.0,
-    "precip_prob": 63,
-    "tmax": 10,
-    "tmin": 1,
+    "precip_mm": 4.3,
+    "precip_prob": 80,
+    "tmax": 9,
+    "tmin": 0,
     "wind_kmh": 10
    },
    {
@@ -255,11 +255,11 @@
     "day": "2026-11-11",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 5.18,
-    "precip_prob": 71,
+    "precip_mm": 7.48,
+    "precip_prob": 80,
     "tmax": 13,
     "tmin": 7,
-    "wind_kmh": 17
+    "wind_kmh": 16
    },
    {
     "code": 51,
@@ -267,7 +267,7 @@
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 0.3,
-    "precip_prob": 12,
+    "precip_prob": 25,
     "tmax": 10,
     "tmin": 4,
     "wind_kmh": 20
@@ -278,7 +278,7 @@
     "emoji": "🌤️",
     "label": "Plutôt dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 2,
+    "precip_prob": 16,
     "tmax": 9,
     "tmin": 3,
     "wind_kmh": 17
@@ -289,7 +289,7 @@
     "emoji": "☀️",
     "label": "Ciel dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 0,
+    "precip_prob": 2,
     "tmax": 9,
     "tmin": 1,
     "wind_kmh": 12
@@ -300,7 +300,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 2.4,
-    "precip_prob": 15,
+    "precip_prob": 14,
     "tmax": 11,
     "tmin": 1,
     "wind_kmh": 32
