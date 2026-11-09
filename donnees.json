@@ -174,7 +174,9 @@
     "address": "373 Avenue Henri Barbusse",
     "id": 59770003,
     "postcode": "59770",
-    "prices": {},
+    "prices": {
+     "e10": 1.99
+    },
     "town": "Marly"
    },
    {
@@ -233,37 +235,37 @@
  "meteo": {
   "days": [
    {
-    "code": 45,
+    "code": 3,
     "day": "2026-11-09",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 2,
-    "tmax": 8,
+    "tmax": 10,
     "tmin": 1,
     "wind_kmh": 9
    },
    {
-    "code": 61,
+    "code": 55,
     "day": "2026-11-10",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 8.2,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 3.7,
     "precip_prob": 63,
-    "tmax": 9,
+    "tmax": 10,
     "tmin": 1,
-    "wind_kmh": 10
+    "wind_kmh": 12
    },
    {
-    "code": 63,
+    "code": 55,
     "day": "2026-11-11",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 11.6,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 3.4,
     "precip_prob": 71,
-    "tmax": 12,
+    "tmax": 13,
     "tmin": 7,
-    "wind_kmh": 12
+    "wind_kmh": 13
    },
    {
     "code": 3,
