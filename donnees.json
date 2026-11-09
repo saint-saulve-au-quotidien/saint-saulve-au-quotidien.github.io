@@ -92,10 +92,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-09"
+  "read_on": "2026-11-10"
  },
  "carburants": {
-  "read_on": "2026-11-09",
+  "read_on": "2026-11-10",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -135,8 +135,8 @@
     "id": 59300016,
     "postcode": "59300",
     "prices": {
-     "e10": 1.972,
-     "gazole": 2.06
+     "e10": 1.922,
+     "gazole": 2.04
     },
     "town": "Valenciennes"
    },
@@ -144,7 +144,10 @@
     "address": "9-12 RUE E. MACAREZ",
     "id": 59300015,
     "postcode": "59300",
-    "prices": {},
+    "prices": {
+     "e10": 1.919,
+     "gazole": 2.04
+    },
     "town": "Valenciennes"
    },
    {
@@ -224,47 +227,36 @@
  "meteo": {
   "days": [
    {
-    "code": 45,
-    "day": "2026-11-09",
-    "emoji": "🌫️",
-    "label": "Brouillard",
-    "precip_mm": 0.0,
-    "precip_prob": 0,
-    "tmax": 10,
-    "tmin": 1,
-    "wind_kmh": 10
-   },
-   {
     "code": 61,
     "day": "2026-11-10",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 6.3,
-    "precip_prob": 92,
-    "tmax": 10,
+    "precip_mm": 4.8,
+    "precip_prob": 90,
+    "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 10
+    "wind_kmh": 12
    },
    {
-    "code": 63,
+    "code": 53,
     "day": "2026-11-11",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 7.7,
-    "precip_prob": 89,
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 2.7,
+    "precip_prob": 84,
     "tmax": 12,
-    "tmin": 4,
-    "wind_kmh": 14
+    "tmin": 7,
+    "wind_kmh": 12
    },
    {
-    "code": 45,
+    "code": 3,
     "day": "2026-11-12",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 12,
     "tmax": 10,
-    "tmin": 2,
+    "tmin": 4,
     "wind_kmh": 21
    },
    {
@@ -273,7 +265,7 @@
     "emoji": "🌤️",
     "label": "Plutôt dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 18,
+    "precip_prob": 4,
     "tmax": 10,
     "tmin": 2,
     "wind_kmh": 12
@@ -284,7 +276,7 @@
     "emoji": "🌫️",
     "label": "Brouillard",
     "precip_mm": 0.0,
-    "precip_prob": 1,
+    "precip_prob": 0,
     "tmax": 9,
     "tmin": 0,
     "wind_kmh": 11
@@ -295,13 +287,24 @@
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 4.0,
-    "precip_prob": 14,
+    "precip_prob": 38,
     "tmax": 9,
     "tmin": 2,
     "wind_kmh": 13
+   },
+   {
+    "code": 51,
+    "day": "2026-11-16",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 1.4,
+    "precip_prob": 47,
+    "tmax": 9,
+    "tmin": 4,
+    "wind_kmh": 11
    }
   ],
-  "read_on": "2026-11-09"
+  "read_on": "2026-11-10"
  },
  "station_names": {
   "59243002": {
