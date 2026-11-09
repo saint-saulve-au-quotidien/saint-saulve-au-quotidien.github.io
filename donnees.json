@@ -4,15 +4,6 @@
    {
     "all_day": false,
     "end": null,
-    "place": "Salle des Fêtes",
-    "source": "Mairie de Saint-Saulve",
-    "start": "2026-11-08T14:00:00+01:00",
-    "title": "Super loto traditionnel",
-    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-57/"
-   },
-   {
-    "all_day": false,
-    "end": null,
     "place": "Église Saint-Martin",
     "source": "Mairie de Saint-Saulve",
     "start": "2026-11-11T11:00:00+01:00",
@@ -101,10 +92,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-08"
+  "read_on": "2026-11-09"
  },
  "carburants": {
-  "read_on": "2026-11-08",
+  "read_on": "2026-11-09",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -242,48 +233,37 @@
  "meteo": {
   "days": [
    {
-    "code": 53,
-    "day": "2026-11-08",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 0.9,
-    "precip_prob": 37,
-    "tmax": 10,
-    "tmin": 3,
-    "wind_kmh": 15
-   },
-   {
-    "code": 0,
+    "code": 3,
     "day": "2026-11-09",
-    "emoji": "☀️",
-    "label": "Ciel dégagé",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 3,
-    "tmax": 11,
+    "precip_prob": 8,
+    "tmax": 10,
     "tmin": 1,
-    "wind_kmh": 9
+    "wind_kmh": 8
    },
    {
     "code": 61,
     "day": "2026-11-10",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 8.1,
-    "precip_prob": 59,
+    "precip_mm": 7.2,
+    "precip_prob": 67,
     "tmax": 8,
-    "tmin": 2,
-    "wind_kmh": 9
+    "tmin": 1,
+    "wind_kmh": 10
    },
    {
-    "code": 63,
+    "code": 61,
     "day": "2026-11-11",
     "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 10.93,
-    "precip_prob": 71,
-    "tmax": 14,
+    "label": "Pluie faible",
+    "precip_mm": 11.2,
+    "precip_prob": 77,
+    "tmax": 12,
     "tmin": 7,
-    "wind_kmh": 15
+    "wind_kmh": 11
    },
    {
     "code": 3,
@@ -291,10 +271,10 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 37,
+    "precip_prob": 29,
     "tmax": 10,
     "tmin": 3,
-    "wind_kmh": 19
+    "wind_kmh": 21
    },
    {
     "code": 1,
@@ -302,24 +282,35 @@
     "emoji": "🌤️",
     "label": "Plutôt dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 8,
+    "precip_prob": 4,
     "tmax": 10,
-    "tmin": 1,
+    "tmin": 2,
     "wind_kmh": 10
    },
    {
-    "code": 0,
+    "code": 45,
     "day": "2026-11-14",
-    "emoji": "☀️",
-    "label": "Ciel dégagé",
+    "emoji": "🌫️",
+    "label": "Brouillard",
     "precip_mm": 0.0,
-    "precip_prob": 2,
-    "tmax": 9,
-    "tmin": 1,
+    "precip_prob": 0,
+    "tmax": 8,
+    "tmin": 0,
     "wind_kmh": 12
+   },
+   {
+    "code": 3,
+    "day": "2026-11-15",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 15,
+    "tmax": 7,
+    "tmin": -2,
+    "wind_kmh": 11
    }
   ],
-  "read_on": "2026-11-08"
+  "read_on": "2026-11-09"
  },
  "station_names": {
   "59243002": {
