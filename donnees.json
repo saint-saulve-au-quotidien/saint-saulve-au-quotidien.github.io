@@ -130,10 +130,7 @@
     "address": "Chemin des Bourgeois",
     "id": 59300006,
     "postcode": "59300",
-    "prices": {
-     "e10": 1.969,
-     "gazole": 2.08
-    },
+    "prices": {},
     "town": "Valenciennes"
    },
    {
@@ -232,33 +229,33 @@
  "meteo": {
   "days": [
    {
-    "code": 45,
+    "code": 2,
     "day": "2026-11-09",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "⛅",
+    "label": "Éclaircies",
     "precip_mm": 0.0,
     "precip_prob": 2,
-    "tmax": 7,
+    "tmax": 10,
     "tmin": 1,
     "wind_kmh": 9
    },
    {
-    "code": 61,
+    "code": 55,
     "day": "2026-11-10",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 9.0,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 5.0,
     "precip_prob": 63,
-    "tmax": 9,
-    "tmin": 0,
+    "tmax": 10,
+    "tmin": 1,
     "wind_kmh": 10
    },
    {
-    "code": 63,
+    "code": 61,
     "day": "2026-11-11",
     "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 10.95,
+    "label": "Pluie faible",
+    "precip_mm": 5.18,
     "precip_prob": 71,
     "tmax": 13,
     "tmin": 7,
