@@ -235,26 +235,26 @@
     "wind_kmh": 10
    },
    {
-    "code": 53,
+    "code": 61,
     "day": "2026-11-10",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 2.4,
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 5.0,
     "precip_prob": 92,
-    "tmax": 10,
+    "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 14
+    "wind_kmh": 10
    },
    {
-    "code": 51,
+    "code": 61,
     "day": "2026-11-11",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 1.2,
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 4.5,
     "precip_prob": 89,
-    "tmax": 12,
-    "tmin": 5,
-    "wind_kmh": 17
+    "tmax": 13,
+    "tmin": 6,
+    "wind_kmh": 14
    },
    {
     "code": 3,
