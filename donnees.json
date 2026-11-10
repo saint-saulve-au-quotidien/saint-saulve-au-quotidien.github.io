@@ -260,22 +260,22 @@
     "day": "2026-11-10",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 4.5,
+    "precip_mm": 3.8,
     "precip_prob": 100,
-    "tmax": 8,
+    "tmax": 9,
     "tmin": 0,
-    "wind_kmh": 11
+    "wind_kmh": 10
    },
    {
     "code": 63,
     "day": "2026-11-11",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 10.9,
+    "precip_mm": 5.9,
     "precip_prob": 85,
     "tmax": 10,
     "tmin": 6,
-    "wind_kmh": 9
+    "wind_kmh": 7
    },
    {
     "code": 45,
