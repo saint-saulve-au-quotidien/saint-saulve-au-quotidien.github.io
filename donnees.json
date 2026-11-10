@@ -112,7 +112,7 @@
     "id": 59264001,
     "postcode": "59264",
     "prices": {
-     "gazole": 2.06
+     "gazole": 2.069
     },
     "town": "Onnaing"
    },
@@ -127,7 +127,9 @@
     "address": "Chemin des Bourgeois",
     "id": 59300006,
     "postcode": "59300",
-    "prices": {},
+    "prices": {
+     "e10": 1.939
+    },
     "town": "Valenciennes"
    },
    {
@@ -211,7 +213,7 @@
     "postcode": "59770",
     "prices": {
      "e10": 1.971,
-     "gazole": 2.237
+     "gazole": 2.096
     },
     "town": "Saultain"
    },
@@ -231,33 +233,33 @@
     "day": "2026-11-10",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 7.9,
+    "precip_mm": 5.3,
     "precip_prob": 94,
-    "tmax": 8,
+    "tmax": 7,
     "tmin": 0,
-    "wind_kmh": 10
+    "wind_kmh": 11
    },
    {
-    "code": 61,
+    "code": 55,
     "day": "2026-11-11",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 3.7,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 3.3,
     "precip_prob": 76,
-    "tmax": 10,
-    "tmin": 5,
-    "wind_kmh": 12
+    "tmax": 11,
+    "tmin": 6,
+    "wind_kmh": 9
    },
    {
-    "code": 45,
+    "code": 51,
     "day": "2026-11-12",
-    "emoji": "🌫️",
-    "label": "Brouillard",
-    "precip_mm": 0.0,
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.08,
     "precip_prob": 10,
-    "tmax": 9,
-    "tmin": 3,
-    "wind_kmh": 15
+    "tmax": 10,
+    "tmin": 4,
+    "wind_kmh": 16
    },
    {
     "code": 3,
