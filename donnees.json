@@ -262,37 +262,37 @@
  "meteo": {
   "days": [
    {
-    "code": 61,
+    "code": 63,
     "day": "2026-11-10",
     "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 6.9,
+    "label": "Pluie",
+    "precip_mm": 12.0,
     "precip_prob": 88,
     "tmax": 10,
     "tmin": 0,
     "wind_kmh": 12
    },
    {
-    "code": 61,
+    "code": 55,
     "day": "2026-11-11",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 10.6,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 10.3,
     "precip_prob": 80,
-    "tmax": 9,
+    "tmax": 8,
     "tmin": 5,
     "wind_kmh": 8
    },
    {
-    "code": 53,
+    "code": 45,
     "day": "2026-11-12",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 0.6,
+    "emoji": "🌫️",
+    "label": "Brouillard",
+    "precip_mm": 0.0,
     "precip_prob": 10,
-    "tmax": 10,
+    "tmax": 9,
     "tmin": 3,
-    "wind_kmh": 21
+    "wind_kmh": 15
    },
    {
     "code": 51,
