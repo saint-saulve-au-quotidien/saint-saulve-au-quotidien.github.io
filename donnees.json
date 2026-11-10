@@ -30,12 +30,39 @@
    },
    {
     "all_day": false,
+    "end": "2026-11-18T22:00:00+01:00",
+    "place": "O’Centr’Halle",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-18T19:00:00+01:00",
+    "title": "OFF ATHENA BLUES FESTIVAL : CAFÉ BLUES",
+    "url": "https://www.ville-saint-saulve.fr/event/off-athena-blues-festival-cafe-blues/"
+   },
+   {
+    "all_day": false,
+    "end": "2026-11-21T20:30:00+01:00",
+    "place": "Église Saint-Martin",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-21T18:30:00+01:00",
+    "title": "CONCERT DE L’HARMONIE MUNICIPALE LORS DE LA MESSE DE SAINTE-CÉCILE",
+    "url": "https://www.ville-saint-saulve.fr/event/concert-de-lharmonie-municipale-lors-de-la-messe-de-sainte-cecile-2/"
+   },
+   {
+    "all_day": false,
     "end": null,
     "place": "Salle des Fêtes",
     "source": "Mairie de Saint-Saulve",
     "start": "2026-11-22T14:00:00+01:00",
     "title": "Super loto traditionnel",
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-62/"
+   },
+   {
+    "all_day": false,
+    "end": null,
+    "place": "Mairie",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-23T19:00:00+01:00",
+    "title": "Réunion du conseil municipal",
+    "url": "https://www.ville-saint-saulve.fr/event/reunion-du-conseil-municipal-26/"
    },
    {
     "all_day": false,
@@ -102,7 +129,7 @@
     "id": 59300021,
     "postcode": "59300",
     "prices": {
-     "e10": 2.079,
+     "e10": 2.059,
      "gazole": 2.229
     },
     "town": "Valenciennes"
