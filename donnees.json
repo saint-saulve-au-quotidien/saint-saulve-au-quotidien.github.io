@@ -217,7 +217,10 @@
     "address": "10 RUE JEAN JAURES",
     "id": 59278003,
     "postcode": "59278",
-    "prices": {},
+    "prices": {
+     "e10": 1.989,
+     "gazole": 2.139
+    },
     "town": "Escautpont"
    },
    {
@@ -248,7 +251,10 @@
     "address": "27 boulevard saly",
     "id": 59300023,
     "postcode": "59300",
-    "prices": {},
+    "prices": {
+     "e10": 1.922,
+     "gazole": 2.04
+    },
     "town": "Valenciennes"
    }
   ]
@@ -260,40 +266,40 @@
     "day": "2026-11-10",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 4.8,
+    "precip_mm": 10.0,
     "precip_prob": 88,
     "tmax": 10,
     "tmin": 0,
     "wind_kmh": 12
    },
    {
-    "code": 61,
+    "code": 55,
     "day": "2026-11-11",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 12.0,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 9.2,
     "precip_prob": 80,
-    "tmax": 9,
+    "tmax": 8,
     "tmin": 5,
     "wind_kmh": 7
    },
    {
-    "code": 51,
+    "code": 45,
     "day": "2026-11-12",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.2,
+    "emoji": "🌫️",
+    "label": "Brouillard",
+    "precip_mm": 0.0,
     "precip_prob": 10,
     "tmax": 9,
     "tmin": 3,
-    "wind_kmh": 16
+    "wind_kmh": 17
    },
    {
     "code": 51,
     "day": "2026-11-13",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.2,
+    "precip_mm": 0.1,
     "precip_prob": 4,
     "tmax": 10,
     "tmin": 3,
