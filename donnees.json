@@ -3,24 +3,6 @@
   "events": [
    {
     "all_day": false,
-    "end": null,
-    "place": "Église Saint-Martin",
-    "source": "Mairie de Saint-Saulve",
-    "start": "2026-11-11T11:00:00+01:00",
-    "title": "COMMÉMORATION DU 11 NOVEMBRE",
-    "url": "https://www.ville-saint-saulve.fr/event/commemoration-du-11-novembre/"
-   },
-   {
-    "all_day": false,
-    "end": null,
-    "place": "Salle des Fêtes",
-    "source": "Mairie de Saint-Saulve",
-    "start": "2026-11-11T14:30:00+01:00",
-    "title": "Super loto traditionnel",
-    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-61/"
-   },
-   {
-    "all_day": false,
     "end": "2026-11-18T16:00:00+01:00",
     "place": "O’Centr’Halle",
     "source": "Mairie de Saint-Saulve",
@@ -119,10 +101,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-11"
+  "read_on": "2026-11-12"
  },
  "carburants": {
-  "read_on": "2026-11-11",
+  "read_on": "2026-11-12",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -270,26 +252,15 @@
  "meteo": {
   "days": [
    {
-    "code": 63,
-    "day": "2026-11-11",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 8.3,
-    "precip_prob": 100,
-    "tmax": 9,
-    "tmin": 6,
-    "wind_kmh": 8
-   },
-   {
     "code": 51,
     "day": "2026-11-12",
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 0.1,
-    "precip_prob": 24,
-    "tmax": 9,
-    "tmin": 3,
-    "wind_kmh": 12
+    "precip_prob": 18,
+    "tmax": 10,
+    "tmin": 4,
+    "wind_kmh": 19
    },
    {
     "code": 3,
@@ -298,9 +269,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 0,
-    "tmax": 10,
+    "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 11
+    "wind_kmh": 9
    },
    {
     "code": 45,
@@ -310,7 +281,7 @@
     "precip_mm": 0.0,
     "precip_prob": 3,
     "tmax": 9,
-    "tmin": -2,
+    "tmin": -1,
     "wind_kmh": 14
    },
    {
@@ -319,7 +290,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 2.6,
-    "precip_prob": 71,
+    "precip_prob": 79,
     "tmax": 12,
     "tmin": 5,
     "wind_kmh": 29
@@ -330,7 +301,7 @@
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 3.0,
-    "precip_prob": 45,
+    "precip_prob": 59,
     "tmax": 11,
     "tmin": 5,
     "wind_kmh": 25
@@ -341,13 +312,24 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 4.6,
-    "precip_prob": 58,
+    "precip_prob": 69,
     "tmax": 10,
     "tmin": 4,
     "wind_kmh": 29
+   },
+   {
+    "code": 51,
+    "day": "2026-11-18",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 2.4,
+    "precip_prob": 60,
+    "tmax": 12,
+    "tmin": 6,
+    "wind_kmh": 30
    }
   ],
-  "read_on": "2026-11-11"
+  "read_on": "2026-11-12"
  },
  "station_names": {
   "59243002": {
