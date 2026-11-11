@@ -149,7 +149,8 @@
     "id": 59264001,
     "postcode": "59264",
     "prices": {
-     "gazole": 2.069
+     "e10": 1.905,
+     "gazole": 2.07
     },
     "town": "Onnaing"
    },
