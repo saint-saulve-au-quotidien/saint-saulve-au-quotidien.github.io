@@ -193,7 +193,10 @@
     "address": "3 Boulevard Eisen",
     "id": 59300005,
     "postcode": "59300",
-    "prices": {},
+    "prices": {
+     "e10": 1.964,
+     "gazole": 2.285
+    },
     "town": "Valenciennes"
    },
    {
@@ -210,7 +213,9 @@
     "address": "373 Avenue Henri Barbusse",
     "id": 59770003,
     "postcode": "59770",
-    "prices": {},
+    "prices": {
+     "gazole": 2.21
+    },
     "town": "Marly"
    },
    {
@@ -266,11 +271,11 @@
     "day": "2026-11-11",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 11.9,
+    "precip_mm": 7.6,
     "precip_prob": 98,
     "tmax": 9,
-    "tmin": 6,
-    "wind_kmh": 9
+    "tmin": 5,
+    "wind_kmh": 10
    },
    {
     "code": 53,
@@ -281,18 +286,18 @@
     "precip_prob": 15,
     "tmax": 10,
     "tmin": 4,
-    "wind_kmh": 23
+    "wind_kmh": 15
    },
    {
     "code": 51,
     "day": "2026-11-13",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.25,
+    "precip_mm": 0.13,
     "precip_prob": 8,
     "tmax": 10,
     "tmin": 2,
-    "wind_kmh": 10
+    "wind_kmh": 12
    },
    {
     "code": 45,
@@ -301,42 +306,42 @@
     "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 0,
-    "tmax": 8,
+    "tmax": 9,
     "tmin": 0,
-    "wind_kmh": 10
+    "wind_kmh": 11
    },
    {
-    "code": 53,
+    "code": 55,
     "day": "2026-11-15",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 5.7,
+    "label": "Bruine dense",
+    "precip_mm": 5.9,
     "precip_prob": 51,
     "tmax": 11,
-    "tmin": 3,
-    "wind_kmh": 23
+    "tmin": 2,
+    "wind_kmh": 24
    },
    {
     "code": 80,
     "day": "2026-11-16",
     "emoji": "🌦️",
     "label": "Averses faibles",
-    "precip_mm": 8.7,
+    "precip_mm": 5.5,
     "precip_prob": 61,
     "tmax": 11,
-    "tmin": 5,
-    "wind_kmh": 25
+    "tmin": 6,
+    "wind_kmh": 26
    },
    {
-    "code": 55,
+    "code": 53,
     "day": "2026-11-17",
     "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 13.2,
+    "label": "Bruine",
+    "precip_mm": 6.6,
     "precip_prob": 67,
-    "tmax": 13,
-    "tmin": 4,
-    "wind_kmh": 28
+    "tmax": 14,
+    "tmin": 6,
+    "wind_kmh": 21
    }
   ],
   "read_on": "2026-11-11"
