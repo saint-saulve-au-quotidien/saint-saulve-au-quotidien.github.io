@@ -199,6 +199,7 @@
     "id": 59770003,
     "postcode": "59770",
     "prices": {
+     "e10": 1.99,
      "gazole": 2.21
     },
     "town": "Marly"
@@ -252,15 +253,15 @@
  "meteo": {
   "days": [
    {
-    "code": 3,
+    "code": 51,
     "day": "2026-11-12",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
-    "precip_mm": 0.0,
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.4,
     "precip_prob": 27,
-    "tmax": 9,
+    "tmax": 10,
     "tmin": 4,
-    "wind_kmh": 12
+    "wind_kmh": 17
    },
    {
     "code": 3,
@@ -280,8 +281,8 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 4,
-    "tmax": 9,
-    "tmin": 0,
+    "tmax": 10,
+    "tmin": 1,
     "wind_kmh": 15
    },
    {
