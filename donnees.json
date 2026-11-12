@@ -258,7 +258,7 @@
     "precip_mm": 0.0,
     "precip_prob": 29,
     "tmax": 10,
-    "tmin": 4,
+    "tmin": 3,
     "wind_kmh": 15
    },
    {
@@ -270,7 +270,7 @@
     "precip_prob": 0,
     "tmax": 10,
     "tmin": 1,
-    "wind_kmh": 12
+    "wind_kmh": 11
    },
    {
     "code": 3,
@@ -281,14 +281,14 @@
     "precip_prob": 3,
     "tmax": 10,
     "tmin": 0,
-    "wind_kmh": 12
+    "wind_kmh": 14
    },
    {
     "code": 81,
     "day": "2026-11-15",
     "emoji": "🌧️",
     "label": "Averses",
-    "precip_mm": 10.08,
+    "precip_mm": 9.3,
     "precip_prob": 82,
     "tmax": 13,
     "tmin": 4,
