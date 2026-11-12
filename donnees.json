@@ -233,10 +233,7 @@
     "address": "221 avenue Jean Jaurès",
     "id": 59243002,
     "postcode": "59243",
-    "prices": {
-     "e10": 1.915,
-     "gazole": 2.104
-    },
+    "prices": {},
     "town": "Quarouble"
    },
    {
