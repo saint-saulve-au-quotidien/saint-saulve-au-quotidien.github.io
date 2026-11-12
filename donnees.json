@@ -151,7 +151,8 @@
     "id": 59300006,
     "postcode": "59300",
     "prices": {
-     "e10": 1.939
+     "e10": 1.922,
+     "gazole": 2.069
     },
     "town": "Valenciennes"
    },
@@ -253,26 +254,26 @@
  "meteo": {
   "days": [
    {
-    "code": 3,
+    "code": 53,
     "day": "2026-11-12",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
-    "precip_mm": 0.0,
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 0.8,
     "precip_prob": 27,
     "tmax": 10,
-    "tmin": 4,
-    "wind_kmh": 16
+    "tmin": 5,
+    "wind_kmh": 18
    },
    {
-    "code": 3,
+    "code": 53,
     "day": "2026-11-13",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
-    "precip_mm": 0.0,
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 1.0,
     "precip_prob": 0,
-    "tmax": 10,
+    "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 9
+    "wind_kmh": 8
    },
    {
     "code": 3,
