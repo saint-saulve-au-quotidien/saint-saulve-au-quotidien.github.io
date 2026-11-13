@@ -255,11 +255,11 @@
     "day": "2026-11-13",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.4,
+    "precip_mm": 0.1,
     "precip_prob": 0,
     "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 7
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -273,15 +273,15 @@
     "wind_kmh": 13
    },
    {
-    "code": 63,
+    "code": 55,
     "day": "2026-11-15",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 8.9,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 5.98,
     "precip_prob": 85,
     "tmax": 11,
-    "tmin": 4,
-    "wind_kmh": 37
+    "tmin": 3,
+    "wind_kmh": 33
    },
    {
     "code": 53,
