@@ -273,62 +273,62 @@
     "precip_prob": 0,
     "tmax": 10,
     "tmin": 0,
-    "wind_kmh": 14
+    "wind_kmh": 13
    },
    {
     "code": 61,
     "day": "2026-11-15",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 7.6,
+    "precip_mm": 3.5,
     "precip_prob": 93,
     "tmax": 11,
     "tmin": 3,
-    "wind_kmh": 30
-   },
-   {
-    "code": 53,
-    "day": "2026-11-16",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 2.78,
-    "precip_prob": 62,
-    "tmax": 10,
-    "tmin": 4,
     "wind_kmh": 26
    },
    {
-    "code": 80,
-    "day": "2026-11-17",
+    "code": 55,
+    "day": "2026-11-16",
     "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 13.6,
-    "precip_prob": 88,
-    "tmax": 14,
-    "tmin": 8,
-    "wind_kmh": 35
+    "label": "Bruine dense",
+    "precip_mm": 1.75,
+    "precip_prob": 62,
+    "tmax": 10,
+    "tmin": 5,
+    "wind_kmh": 26
    },
    {
-    "code": 80,
+    "code": 95,
+    "day": "2026-11-17",
+    "emoji": "⛈️",
+    "label": "Orage",
+    "precip_mm": 26.4,
+    "precip_prob": 88,
+    "tmax": 13,
+    "tmin": 6,
+    "wind_kmh": 29
+   },
+   {
+    "code": 55,
     "day": "2026-11-18",
     "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 12.8,
+    "label": "Bruine dense",
+    "precip_mm": 5.6,
     "precip_prob": 67,
-    "tmax": 12,
+    "tmax": 13,
     "tmin": 9,
-    "wind_kmh": 23
+    "wind_kmh": 25
    },
    {
-    "code": 53,
+    "code": 80,
     "day": "2026-11-19",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 7.6,
+    "label": "Averses faibles",
+    "precip_mm": 14.8,
     "precip_prob": 44,
     "tmax": 12,
-    "tmin": 8,
-    "wind_kmh": 23
+    "tmin": 7,
+    "wind_kmh": 27
    }
   ],
   "read_on": "2026-11-13"
