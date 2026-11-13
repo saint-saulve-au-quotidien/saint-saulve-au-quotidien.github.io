@@ -246,10 +246,7 @@
     "address": "27 boulevard saly",
     "id": 59300023,
     "postcode": "59300",
-    "prices": {
-     "e10": 1.922,
-     "gazole": 2.04
-    },
+    "prices": {},
     "town": "Valenciennes"
    }
   ]
