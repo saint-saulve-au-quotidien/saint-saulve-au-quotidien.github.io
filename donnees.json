@@ -252,23 +252,12 @@
  "meteo": {
   "days": [
    {
-    "code": 3,
-    "day": "2026-11-12",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
-    "precip_mm": 0.0,
-    "precip_prob": 29,
-    "tmax": 10,
-    "tmin": 3,
-    "wind_kmh": 15
-   },
-   {
     "code": 51,
     "day": "2026-11-13",
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 0.1,
-    "precip_prob": 0,
+    "precip_prob": 2,
     "tmax": 10,
     "tmin": 1,
     "wind_kmh": 11
@@ -279,57 +268,68 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 3,
-    "tmax": 9,
+    "precip_prob": 2,
+    "tmax": 10,
     "tmin": 0,
-    "wind_kmh": 17
+    "wind_kmh": 18
    },
    {
-    "code": 81,
+    "code": 80,
     "day": "2026-11-15",
-    "emoji": "🌧️",
-    "label": "Averses",
-    "precip_mm": 9.4,
-    "precip_prob": 82,
+    "emoji": "🌦️",
+    "label": "Averses faibles",
+    "precip_mm": 3.65,
+    "precip_prob": 84,
     "tmax": 13,
-    "tmin": 3,
+    "tmin": 4,
     "wind_kmh": 30
    },
    {
-    "code": 53,
+    "code": 55,
     "day": "2026-11-16",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 4.1,
-    "precip_prob": 51,
+    "label": "Bruine dense",
+    "precip_mm": 3.5,
+    "precip_prob": 50,
     "tmax": 10,
     "tmin": 4,
-    "wind_kmh": 24
+    "wind_kmh": 23
    },
    {
     "code": 80,
     "day": "2026-11-17",
     "emoji": "🌦️",
     "label": "Averses faibles",
-    "precip_mm": 7.3,
-    "precip_prob": 59,
-    "tmax": 9,
+    "precip_mm": 12.6,
+    "precip_prob": 75,
+    "tmax": 11,
     "tmin": 3,
-    "wind_kmh": 25
+    "wind_kmh": 21
    },
    {
-    "code": 55,
+    "code": 51,
     "day": "2026-11-18",
     "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 5.0,
-    "precip_prob": 56,
-    "tmax": 9,
-    "tmin": 5,
-    "wind_kmh": 17
+    "label": "Bruine faible",
+    "precip_mm": 0.3,
+    "precip_prob": 58,
+    "tmax": 8,
+    "tmin": 2,
+    "wind_kmh": 10
+   },
+   {
+    "code": 3,
+    "day": "2026-11-19",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 53,
+    "tmax": 8,
+    "tmin": 2,
+    "wind_kmh": 8
    }
   ],
-  "read_on": "2026-11-12"
+  "read_on": "2026-11-13"
  },
  "station_names": {
   "59243002": {
