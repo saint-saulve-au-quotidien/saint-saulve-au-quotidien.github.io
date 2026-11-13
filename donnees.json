@@ -101,10 +101,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-12"
+  "read_on": "2026-11-13"
  },
  "carburants": {
-  "read_on": "2026-11-12",
+  "read_on": "2026-11-13",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -161,8 +161,8 @@
     "id": 59300016,
     "postcode": "59300",
     "prices": {
-     "e10": 1.893,
-     "gazole": 2.041
+     "e10": 1.91,
+     "gazole": 2.011
     },
     "town": "Valenciennes"
    },
@@ -171,7 +171,8 @@
     "id": 59300015,
     "postcode": "59300",
     "prices": {
-     "gazole": 2.041
+     "e10": 1.91,
+     "gazole": 2.011
     },
     "town": "Valenciennes"
    },
