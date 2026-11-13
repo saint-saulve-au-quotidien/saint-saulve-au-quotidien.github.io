@@ -142,7 +142,7 @@
     "postcode": "59860",
     "prices": {
      "e10": 1.969,
-     "gazole": 2.129
+     "gazole": 2.099
     },
     "town": "Bruay-sur-l'Escaut"
    },
@@ -251,12 +251,12 @@
  "meteo": {
   "days": [
    {
-    "code": 51,
+    "code": 3,
     "day": "2026-11-13",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.1,
-    "precip_prob": 0,
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 2,
     "tmax": 9,
     "tmin": 1,
     "wind_kmh": 9
@@ -267,21 +267,21 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 2,
+    "precip_prob": 0,
     "tmax": 10,
     "tmin": 0,
-    "wind_kmh": 13
+    "wind_kmh": 14
    },
    {
-    "code": 55,
+    "code": 61,
     "day": "2026-11-15",
-    "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 5.98,
-    "precip_prob": 85,
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 4.33,
+    "precip_prob": 95,
     "tmax": 11,
     "tmin": 3,
-    "wind_kmh": 33
+    "wind_kmh": 29
    },
    {
     "code": 53,
@@ -300,7 +300,7 @@
     "emoji": "🌦️",
     "label": "Averses faibles",
     "precip_mm": 15.7,
-    "precip_prob": 71,
+    "precip_prob": 76,
     "tmax": 13,
     "tmin": 7,
     "wind_kmh": 36
@@ -311,7 +311,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 3.7,
-    "precip_prob": 43,
+    "precip_prob": 39,
     "tmax": 9,
     "tmin": 4,
     "wind_kmh": 20
@@ -322,7 +322,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 8.2,
-    "precip_prob": 53,
+    "precip_prob": 33,
     "tmax": 12,
     "tmin": 7,
     "wind_kmh": 16
