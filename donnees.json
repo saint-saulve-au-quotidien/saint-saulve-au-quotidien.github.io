@@ -256,11 +256,11 @@
     "day": "2026-11-13",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 0.1,
-    "precip_prob": 2,
-    "tmax": 10,
+    "precip_mm": 0.2,
+    "precip_prob": 0,
+    "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 11
+    "wind_kmh": 8
    },
    {
     "code": 3,
@@ -271,17 +271,17 @@
     "precip_prob": 2,
     "tmax": 10,
     "tmin": 0,
-    "wind_kmh": 18
+    "wind_kmh": 16
    },
    {
     "code": 80,
     "day": "2026-11-15",
     "emoji": "🌦️",
     "label": "Averses faibles",
-    "precip_mm": 3.65,
-    "precip_prob": 84,
-    "tmax": 13,
-    "tmin": 4,
+    "precip_mm": 2.95,
+    "precip_prob": 85,
+    "tmax": 12,
+    "tmin": 3,
     "wind_kmh": 30
    },
    {
@@ -290,7 +290,7 @@
     "emoji": "🌦️",
     "label": "Bruine dense",
     "precip_mm": 3.5,
-    "precip_prob": 50,
+    "precip_prob": 56,
     "tmax": 10,
     "tmin": 4,
     "wind_kmh": 23
@@ -301,7 +301,7 @@
     "emoji": "🌦️",
     "label": "Averses faibles",
     "precip_mm": 12.6,
-    "precip_prob": 75,
+    "precip_prob": 71,
     "tmax": 11,
     "tmin": 3,
     "wind_kmh": 21
@@ -312,7 +312,7 @@
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 0.3,
-    "precip_prob": 58,
+    "precip_prob": 43,
     "tmax": 8,
     "tmin": 2,
     "wind_kmh": 10
