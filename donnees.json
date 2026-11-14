@@ -188,10 +188,7 @@
     "address": "3 Boulevard Eisen",
     "id": 59300005,
     "postcode": "59300",
-    "prices": {
-     "e10": 1.964,
-     "gazole": 2.285
-    },
+    "prices": {},
     "town": "Valenciennes"
    },
    {
@@ -209,8 +206,7 @@
     "id": 59770003,
     "postcode": "59770",
     "prices": {
-     "e10": 1.99,
-     "gazole": 2.21
+     "e10": 1.99
     },
     "town": "Marly"
    },
@@ -269,66 +265,66 @@
     "day": "2026-11-15",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 11.2,
+    "precip_mm": 7.7,
     "precip_prob": 97,
     "tmax": 10,
     "tmin": 3,
-    "wind_kmh": 24
-   },
-   {
-    "code": 63,
-    "day": "2026-11-16",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 13.08,
-    "precip_prob": 63,
-    "tmax": 10,
-    "tmin": 7,
-    "wind_kmh": 22
-   },
-   {
-    "code": 95,
-    "day": "2026-11-17",
-    "emoji": "⛈️",
-    "label": "Orage",
-    "precip_mm": 24.5,
-    "precip_prob": 94,
-    "tmax": 14,
-    "tmin": 10,
-    "wind_kmh": 34
-   },
-   {
-    "code": 55,
-    "day": "2026-11-18",
-    "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 10.4,
-    "precip_prob": 75,
-    "tmax": 13,
-    "tmin": 9,
     "wind_kmh": 25
    },
    {
-    "code": 80,
-    "day": "2026-11-19",
-    "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 23.3,
-    "precip_prob": 67,
-    "tmax": 12,
-    "tmin": 7,
-    "wind_kmh": 23
+    "code": 61,
+    "day": "2026-11-16",
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 6.2,
+    "precip_prob": 63,
+    "tmax": 10,
+    "tmin": 6,
+    "wind_kmh": 22
    },
    {
     "code": 80,
-    "day": "2026-11-20",
+    "day": "2026-11-17",
     "emoji": "🌦️",
     "label": "Averses faibles",
-    "precip_mm": 4.4,
+    "precip_mm": 15.4,
+    "precip_prob": 94,
+    "tmax": 14,
+    "tmin": 7,
+    "wind_kmh": 28
+   },
+   {
+    "code": 53,
+    "day": "2026-11-18",
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 3.8,
+    "precip_prob": 75,
+    "tmax": 13,
+    "tmin": 10,
+    "wind_kmh": 26
+   },
+   {
+    "code": 53,
+    "day": "2026-11-19",
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 8.0,
+    "precip_prob": 67,
+    "tmax": 12,
+    "tmin": 8,
+    "wind_kmh": 23
+   },
+   {
+    "code": 53,
+    "day": "2026-11-20",
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 1.4,
     "precip_prob": 49,
     "tmax": 10,
     "tmin": 2,
-    "wind_kmh": 20
+    "wind_kmh": 9
    }
   ],
   "read_on": "2026-11-14"
