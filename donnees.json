@@ -197,7 +197,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.962,
-     "gazole": 2.089
+     "gazole": 2.036
     },
     "town": "Valenciennes"
    },
@@ -235,7 +235,9 @@
     "address": "221 avenue Jean Jaurès",
     "id": 59243002,
     "postcode": "59243",
-    "prices": {},
+    "prices": {
+     "gazole": 2.058
+    },
     "town": "Quarouble"
    },
    {
@@ -258,29 +260,29 @@
     "precip_prob": 0,
     "tmax": 9,
     "tmin": 0,
-    "wind_kmh": 9
+    "wind_kmh": 8
    },
    {
-    "code": 63,
+    "code": 61,
     "day": "2026-11-15",
     "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 7.4,
+    "label": "Pluie faible",
+    "precip_mm": 7.5,
     "precip_prob": 97,
-    "tmax": 11,
-    "tmin": 3,
-    "wind_kmh": 25
+    "tmax": 10,
+    "tmin": 2,
+    "wind_kmh": 24
    },
    {
     "code": 61,
     "day": "2026-11-16",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 6.7,
+    "precip_mm": 4.25,
     "precip_prob": 63,
-    "tmax": 10,
-    "tmin": 6,
-    "wind_kmh": 25
+    "tmax": 9,
+    "tmin": 4,
+    "wind_kmh": 22
    },
    {
     "code": 80,
