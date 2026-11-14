@@ -259,73 +259,73 @@
     "precip_prob": 0,
     "tmax": 9,
     "tmin": 0,
-    "wind_kmh": 9
+    "wind_kmh": 11
    },
    {
-    "code": 63,
+    "code": 61,
     "day": "2026-11-15",
     "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 5.4,
+    "label": "Pluie faible",
+    "precip_mm": 4.6,
     "precip_prob": 97,
-    "tmax": 10,
-    "tmin": 3,
-    "wind_kmh": 24
+    "tmax": 11,
+    "tmin": 2,
+    "wind_kmh": 25
    },
    {
     "code": 61,
     "day": "2026-11-16",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 6.63,
+    "precip_mm": 5.18,
     "precip_prob": 63,
-    "tmax": 9,
-    "tmin": 4,
-    "wind_kmh": 24
+    "tmax": 10,
+    "tmin": 5,
+    "wind_kmh": 22
+   },
+   {
+    "code": 95,
+    "day": "2026-11-17",
+    "emoji": "⛈️",
+    "label": "Orage",
+    "precip_mm": 19.6,
+    "precip_prob": 94,
+    "tmax": 14,
+    "tmin": 8,
+    "wind_kmh": 29
    },
    {
     "code": 80,
-    "day": "2026-11-17",
-    "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 15.4,
-    "precip_prob": 94,
-    "tmax": 14,
-    "tmin": 7,
-    "wind_kmh": 26
-   },
-   {
-    "code": 53,
     "day": "2026-11-18",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 3.8,
+    "label": "Averses faibles",
+    "precip_mm": 4.9,
     "precip_prob": 75,
     "tmax": 13,
-    "tmin": 10,
+    "tmin": 9,
     "wind_kmh": 27
    },
    {
-    "code": 53,
+    "code": 80,
     "day": "2026-11-19",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 8.0,
+    "label": "Averses faibles",
+    "precip_mm": 10.1,
     "precip_prob": 67,
     "tmax": 12,
-    "tmin": 8,
-    "wind_kmh": 26
+    "tmin": 4,
+    "wind_kmh": 23
    },
    {
-    "code": 53,
+    "code": 1,
     "day": "2026-11-20",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 1.4,
+    "emoji": "🌤️",
+    "label": "Plutôt dégagé",
+    "precip_mm": 0.0,
     "precip_prob": 49,
     "tmax": 10,
     "tmin": 2,
-    "wind_kmh": 14
+    "wind_kmh": 12
    }
   ],
   "read_on": "2026-11-14"
