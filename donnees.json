@@ -256,33 +256,33 @@
     "day": "2026-11-15",
     "emoji": "🌦️",
     "label": "Bruine dense",
-    "precip_mm": 3.6,
+    "precip_mm": 3.3,
     "precip_prob": 97,
     "tmax": 11,
     "tmin": 2,
-    "wind_kmh": 23
+    "wind_kmh": 24
    },
    {
-    "code": 63,
+    "code": 61,
     "day": "2026-11-16",
     "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 7.4,
+    "label": "Pluie faible",
+    "precip_mm": 5.8,
     "precip_prob": 63,
     "tmax": 10,
     "tmin": 6,
-    "wind_kmh": 28
+    "wind_kmh": 21
    },
    {
     "code": 63,
     "day": "2026-11-17",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 31.33,
+    "precip_mm": 29.8,
     "precip_prob": 94,
     "tmax": 15,
     "tmin": 6,
-    "wind_kmh": 30
+    "wind_kmh": 37
    },
    {
     "code": 53,
