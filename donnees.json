@@ -256,77 +256,77 @@
     "day": "2026-11-15",
     "emoji": "🌦️",
     "label": "Bruine dense",
-    "precip_mm": 3.5,
+    "precip_mm": 3.8,
     "precip_prob": 97,
     "tmax": 11,
     "tmin": 2,
     "wind_kmh": 22
    },
    {
-    "code": 53,
+    "code": 61,
     "day": "2026-11-16",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 4.9,
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 3.7,
     "precip_prob": 63,
     "tmax": 10,
     "tmin": 6,
-    "wind_kmh": 22
+    "wind_kmh": 23
    },
    {
     "code": 63,
     "day": "2026-11-17",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 21.6,
+    "precip_mm": 29.3,
     "precip_prob": 94,
-    "tmax": 14,
+    "tmax": 15,
     "tmin": 6,
-    "wind_kmh": 29
+    "wind_kmh": 30
    },
    {
     "code": 63,
     "day": "2026-11-18",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 4.52,
+    "precip_mm": 4.57,
     "precip_prob": 75,
     "tmax": 12,
     "tmin": 9,
+    "wind_kmh": 25
+   },
+   {
+    "code": 81,
+    "day": "2026-11-19",
+    "emoji": "🌧️",
+    "label": "Averses",
+    "precip_mm": 8.3,
+    "precip_prob": 67,
+    "tmax": 12,
+    "tmin": 8,
+    "wind_kmh": 24
+   },
+   {
+    "code": 53,
+    "day": "2026-11-20",
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 7.1,
+    "precip_prob": 49,
+    "tmax": 10,
+    "tmin": 3,
     "wind_kmh": 23
    },
    {
-    "code": 55,
-    "day": "2026-11-19",
-    "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 8.3,
-    "precip_prob": 67,
-    "tmax": 11,
-    "tmin": 8,
-    "wind_kmh": 22
-   },
-   {
-    "code": 80,
-    "day": "2026-11-20",
-    "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 11.8,
-    "precip_prob": 49,
-    "tmax": 11,
-    "tmin": 2,
-    "wind_kmh": 20
-   },
-   {
-    "code": 45,
+    "code": 3,
     "day": "2026-11-21",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 15,
-    "tmax": 11,
-    "tmin": 0,
-    "wind_kmh": 13
+    "tmax": 9,
+    "tmin": 1,
+    "wind_kmh": 11
    }
   ],
   "read_on": "2026-11-15"
