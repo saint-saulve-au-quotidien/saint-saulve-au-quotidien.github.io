@@ -110,10 +110,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-16"
+  "read_on": "2026-11-17"
  },
  "carburants": {
-  "read_on": "2026-11-16",
+  "read_on": "2026-11-17",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -254,45 +254,34 @@
  "meteo": {
   "days": [
    {
-    "code": 53,
-    "day": "2026-11-16",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 2.3,
-    "precip_prob": 99,
-    "tmax": 10,
-    "tmin": 6,
-    "wind_kmh": 24
-   },
-   {
     "code": 63,
     "day": "2026-11-17",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 24.7,
+    "precip_mm": 31.3,
     "precip_prob": 100,
     "tmax": 15,
-    "tmin": 7,
-    "wind_kmh": 40
-   },
-   {
-    "code": 61,
-    "day": "2026-11-18",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 7.0,
-    "precip_prob": 90,
-    "tmax": 12,
-    "tmin": 10,
-    "wind_kmh": 28
+    "tmin": 6,
+    "wind_kmh": 31
    },
    {
     "code": 63,
-    "day": "2026-11-19",
+    "day": "2026-11-18",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 10.55,
-    "precip_prob": 85,
+    "precip_mm": 14.9,
+    "precip_prob": 82,
+    "tmax": 11,
+    "tmin": 10,
+    "wind_kmh": 33
+   },
+   {
+    "code": 55,
+    "day": "2026-11-19",
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 7.85,
+    "precip_prob": 93,
     "tmax": 11,
     "tmin": 9,
     "wind_kmh": 29
@@ -303,7 +292,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 7.1,
-    "precip_prob": 63,
+    "precip_prob": 71,
     "tmax": 11,
     "tmin": 8,
     "wind_kmh": 19
@@ -314,7 +303,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 2.4,
-    "precip_prob": 9,
+    "precip_prob": 26,
     "tmax": 9,
     "tmin": 2,
     "wind_kmh": 14
@@ -325,13 +314,24 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 43,
+    "precip_prob": 50,
     "tmax": 8,
     "tmin": 2,
     "wind_kmh": 13
+   },
+   {
+    "code": 3,
+    "day": "2026-11-23",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 36,
+    "tmax": 11,
+    "tmin": 6,
+    "wind_kmh": 13
    }
   ],
-  "read_on": "2026-11-16"
+  "read_on": "2026-11-17"
  },
  "station_names": {
   "59243002": {
