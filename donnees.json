@@ -149,9 +149,7 @@
     "address": "386-388 Rue Jean Jaurès",
     "id": 59860003,
     "postcode": "59860",
-    "prices": {
-     "gazole": 2.099
-    },
+    "prices": {},
     "town": "Bruay-sur-l'Escaut"
    },
    {
@@ -198,7 +196,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.962,
-     "gazole": 2.036
+     "gazole": 2.038
     },
     "town": "Valenciennes"
    },
