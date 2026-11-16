@@ -259,7 +259,7 @@
     "day": "2026-11-16",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 2.2,
+    "precip_mm": 2.6,
     "precip_prob": 63,
     "tmax": 10,
     "tmin": 6,
@@ -270,22 +270,22 @@
     "day": "2026-11-17",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 27.5,
+    "precip_mm": 25.3,
     "precip_prob": 94,
     "tmax": 15,
     "tmin": 6,
-    "wind_kmh": 30
+    "wind_kmh": 28
    },
    {
     "code": 63,
     "day": "2026-11-18",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 14.85,
+    "precip_mm": 11.0,
     "precip_prob": 75,
-    "tmax": 12,
+    "tmax": 11,
     "tmin": 9,
-    "wind_kmh": 27
+    "wind_kmh": 30
    },
    {
     "code": 80,
