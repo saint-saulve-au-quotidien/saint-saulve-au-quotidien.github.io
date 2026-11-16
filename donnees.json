@@ -159,7 +159,6 @@
     "id": 59300006,
     "postcode": "59300",
     "prices": {
-     "e10": 1.92,
      "gazole": 2.039
     },
     "town": "Valenciennes"
@@ -259,8 +258,8 @@
     "day": "2026-11-16",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 2.6,
-    "precip_prob": 63,
+    "precip_mm": 2.5,
+    "precip_prob": 100,
     "tmax": 10,
     "tmin": 6,
     "wind_kmh": 24
@@ -270,53 +269,53 @@
     "day": "2026-11-17",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 25.3,
-    "precip_prob": 94,
+    "precip_mm": 26.1,
+    "precip_prob": 100,
     "tmax": 15,
     "tmin": 6,
-    "wind_kmh": 28
+    "wind_kmh": 29
    },
    {
     "code": 63,
     "day": "2026-11-18",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 11.0,
-    "precip_prob": 75,
+    "precip_mm": 16.65,
+    "precip_prob": 86,
     "tmax": 11,
     "tmin": 9,
-    "wind_kmh": 30
+    "wind_kmh": 25
    },
    {
     "code": 80,
     "day": "2026-11-19",
     "emoji": "🌦️",
     "label": "Averses faibles",
-    "precip_mm": 7.7,
-    "precip_prob": 67,
+    "precip_mm": 9.1,
+    "precip_prob": 86,
     "tmax": 11,
-    "tmin": 9,
+    "tmin": 8,
     "wind_kmh": 22
    },
    {
-    "code": 53,
+    "code": 80,
     "day": "2026-11-20",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 7.6,
-    "precip_prob": 49,
-    "tmax": 10,
-    "tmin": 1,
-    "wind_kmh": 24
+    "label": "Averses faibles",
+    "precip_mm": 16.7,
+    "precip_prob": 73,
+    "tmax": 9,
+    "tmin": 4,
+    "wind_kmh": 21
    },
    {
-    "code": 2,
+    "code": 3,
     "day": "2026-11-21",
-    "emoji": "⛅",
-    "label": "Éclaircies",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 15,
-    "tmax": 9,
+    "tmax": 8,
     "tmin": 1,
     "wind_kmh": 11
    },
@@ -327,9 +326,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 31,
-    "tmax": 7,
-    "tmin": 1,
-    "wind_kmh": 12
+    "tmax": 6,
+    "tmin": -1,
+    "wind_kmh": 11
    }
   ],
   "read_on": "2026-11-16"
