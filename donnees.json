@@ -120,7 +120,7 @@
     "id": 59300021,
     "postcode": "59300",
     "prices": {
-     "e10": 2.029,
+     "e10": 2.019,
      "gazole": 2.179
     },
     "town": "Valenciennes"
@@ -256,10 +256,10 @@
     "day": "2026-11-16",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 2.3,
-    "precip_prob": 100,
+    "precip_mm": 2.2,
+    "precip_prob": 99,
     "tmax": 10,
-    "tmin": 6,
+    "tmin": 7,
     "wind_kmh": 24
    },
    {
@@ -267,22 +267,22 @@
     "day": "2026-11-17",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 37.4,
+    "precip_mm": 33.6,
     "precip_prob": 100,
     "tmax": 15,
-    "tmin": 6,
-    "wind_kmh": 30
+    "tmin": 8,
+    "wind_kmh": 32
    },
    {
     "code": 63,
     "day": "2026-11-18",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 18.32,
-    "precip_prob": 86,
+    "precip_mm": 14.2,
+    "precip_prob": 79,
     "tmax": 11,
     "tmin": 9,
-    "wind_kmh": 25
+    "wind_kmh": 27
    },
    {
     "code": 80,
@@ -301,7 +301,7 @@
     "emoji": "🌦️",
     "label": "Averses faibles",
     "precip_mm": 16.7,
-    "precip_prob": 73,
+    "precip_prob": 78,
     "tmax": 9,
     "tmin": 4,
     "wind_kmh": 21
@@ -323,7 +323,7 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 31,
+    "precip_prob": 43,
     "tmax": 6,
     "tmin": -1,
     "wind_kmh": 11
