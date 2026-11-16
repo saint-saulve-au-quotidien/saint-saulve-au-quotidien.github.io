@@ -211,7 +211,10 @@
     "address": "10 RUE JEAN JAURES",
     "id": 59278003,
     "postcode": "59278",
-    "prices": {},
+    "prices": {
+     "e10": 1.985,
+     "gazole": 2.131
+    },
     "town": "Escautpont"
    },
    {
