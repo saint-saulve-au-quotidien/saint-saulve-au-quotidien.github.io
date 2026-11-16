@@ -244,7 +244,10 @@
     "address": "27 boulevard saly",
     "id": 59300023,
     "postcode": "59300",
-    "prices": {},
+    "prices": {
+     "e10": 1.905,
+     "gazole": 2.02
+    },
     "town": "Valenciennes"
    }
   ]
@@ -252,33 +255,33 @@
  "meteo": {
   "days": [
    {
-    "code": 61,
+    "code": 53,
     "day": "2026-11-16",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 4.3,
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 2.2,
     "precip_prob": 63,
     "tmax": 10,
     "tmin": 6,
-    "wind_kmh": 25
+    "wind_kmh": 24
    },
    {
-    "code": 65,
+    "code": 63,
     "day": "2026-11-17",
     "emoji": "🌧️",
-    "label": "Pluie forte",
-    "precip_mm": 39.8,
+    "label": "Pluie",
+    "precip_mm": 27.5,
     "precip_prob": 94,
-    "tmax": 14,
-    "tmin": 7,
-    "wind_kmh": 28
+    "tmax": 15,
+    "tmin": 6,
+    "wind_kmh": 30
    },
    {
     "code": 63,
     "day": "2026-11-18",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 15.15,
+    "precip_mm": 14.85,
     "precip_prob": 75,
     "tmax": 12,
     "tmin": 9,
