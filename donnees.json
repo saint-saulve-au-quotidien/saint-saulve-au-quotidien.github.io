@@ -110,10 +110,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-15"
+  "read_on": "2026-11-16"
  },
  "carburants": {
-  "read_on": "2026-11-15",
+  "read_on": "2026-11-16",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -252,48 +252,37 @@
  "meteo": {
   "days": [
    {
-    "code": 55,
-    "day": "2026-11-15",
-    "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 3.5,
-    "precip_prob": 97,
-    "tmax": 11,
-    "tmin": 2,
-    "wind_kmh": 22
-   },
-   {
-    "code": 61,
+    "code": 53,
     "day": "2026-11-16",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 4.3,
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 2.4,
     "precip_prob": 63,
     "tmax": 10,
     "tmin": 6,
-    "wind_kmh": 25
+    "wind_kmh": 23
    },
    {
     "code": 63,
     "day": "2026-11-17",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 23.7,
+    "precip_mm": 29.1,
     "precip_prob": 94,
-    "tmax": 14,
+    "tmax": 15,
     "tmin": 6,
-    "wind_kmh": 35
+    "wind_kmh": 34
    },
    {
-    "code": 61,
+    "code": 63,
     "day": "2026-11-18",
     "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 5.5,
+    "label": "Pluie",
+    "precip_mm": 12.1,
     "precip_prob": 75,
     "tmax": 12,
     "tmin": 9,
-    "wind_kmh": 25
+    "wind_kmh": 28
    },
    {
     "code": 81,
@@ -327,9 +316,20 @@
     "tmax": 9,
     "tmin": 1,
     "wind_kmh": 11
+   },
+   {
+    "code": 3,
+    "day": "2026-11-22",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
+    "precip_prob": 31,
+    "tmax": 7,
+    "tmin": 1,
+    "wind_kmh": 12
    }
   ],
-  "read_on": "2026-11-15"
+  "read_on": "2026-11-16"
  },
  "station_names": {
   "59243002": {
