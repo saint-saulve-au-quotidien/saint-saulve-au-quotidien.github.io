@@ -129,8 +129,8 @@
     "id": 59770002,
     "postcode": "59770",
     "prices": {
-     "e10": 1.926,
-     "gazole": 2.078
+     "e10": 1.93,
+     "gazole": 2.125
     },
     "town": "Marly"
    },
@@ -156,7 +156,7 @@
     "id": 59300006,
     "postcode": "59300",
     "prices": {
-     "gazole": 2.039
+     "gazole": 2.065
     },
     "town": "Valenciennes"
    },
