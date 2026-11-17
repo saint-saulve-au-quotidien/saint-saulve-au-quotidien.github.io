@@ -203,7 +203,10 @@
     "address": "373 Avenue Henri Barbusse",
     "id": 59770003,
     "postcode": "59770",
-    "prices": {},
+    "prices": {
+     "e10": 1.99,
+     "gazole": 2.23
+    },
     "town": "Marly"
    },
    {
