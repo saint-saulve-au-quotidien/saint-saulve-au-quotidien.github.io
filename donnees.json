@@ -57,6 +57,15 @@
    },
    {
     "all_day": false,
+    "end": null,
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-11-29T14:00:00+01:00",
+    "title": "Super loto traditionnel",
+    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-63/"
+   },
+   {
+    "all_day": false,
     "end": "2026-12-06T17:00:00+01:00",
     "place": "O’Centr’Halle",
     "source": "Mairie de Saint-Saulve",
@@ -99,6 +108,15 @@
     "start": "2026-12-18T20:30:00+01:00",
     "title": "CONCERT-HOMMAGE À DANIEL BALAVOINE",
     "url": "https://www.ville-saint-saulve.fr/event/concert-hommage-a-daniel-balavoine/"
+   },
+   {
+    "all_day": false,
+    "end": "2026-12-19T23:00:00+01:00",
+    "place": "",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-19T15:00:00+01:00",
+    "title": "SORTIE EN BUS : MARCHÉ DE NOËL",
+    "url": "https://www.ville-saint-saulve.fr/event/sortie-en-bus-marche-de-noel/"
    },
    {
     "all_day": false,
