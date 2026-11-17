@@ -139,8 +139,8 @@
     "id": 59264001,
     "postcode": "59264",
     "prices": {
-     "e10": 1.9,
-     "gazole": 2.032
+     "e10": 1.902,
+     "gazole": 2.028
     },
     "town": "Onnaing"
    },
@@ -237,9 +237,7 @@
     "address": "221 avenue Jean Jaurès",
     "id": 59243002,
     "postcode": "59243",
-    "prices": {
-     "gazole": 2.058
-    },
+    "prices": {},
     "town": "Quarouble"
    },
    {
