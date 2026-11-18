@@ -3,24 +3,6 @@
   "events": [
    {
     "all_day": false,
-    "end": "2026-11-18T16:00:00+01:00",
-    "place": "O’Centr’Halle",
-    "source": "Mairie de Saint-Saulve",
-    "start": "2026-11-18T13:00:00+01:00",
-    "title": "Forum de l’orientation",
-    "url": "https://www.ville-saint-saulve.fr/event/forum-de-lorientation-5/"
-   },
-   {
-    "all_day": false,
-    "end": "2026-11-18T22:00:00+01:00",
-    "place": "O’Centr’Halle",
-    "source": "Mairie de Saint-Saulve",
-    "start": "2026-11-18T19:00:00+01:00",
-    "title": "OFF ATHENA BLUES FESTIVAL : CAFÉ BLUES",
-    "url": "https://www.ville-saint-saulve.fr/event/off-athena-blues-festival-cafe-blues/"
-   },
-   {
-    "all_day": false,
     "end": "2026-11-21T20:30:00+01:00",
     "place": "Église Saint-Martin",
     "source": "Mairie de Saint-Saulve",
@@ -128,10 +110,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-18"
+  "read_on": "2026-11-19"
  },
  "carburants": {
-  "read_on": "2026-11-18",
+  "read_on": "2026-11-19",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -280,22 +262,11 @@
  "meteo": {
   "days": [
    {
-    "code": 63,
-    "day": "2026-11-18",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 26.4,
-    "precip_prob": 100,
-    "tmax": 11,
-    "tmin": 9,
-    "wind_kmh": 29
-   },
-   {
     "code": 61,
     "day": "2026-11-19",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 8.6,
+    "precip_mm": 8.9,
     "precip_prob": 99,
     "tmax": 11,
     "tmin": 9,
@@ -306,11 +277,11 @@
     "day": "2026-11-20",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 10.0,
+    "precip_mm": 9.8,
     "precip_prob": 80,
-    "tmax": 9,
+    "tmax": 10,
     "tmin": 2,
-    "wind_kmh": 25
+    "wind_kmh": 22
    },
    {
     "code": 3,
@@ -321,7 +292,7 @@
     "precip_prob": 37,
     "tmax": 9,
     "tmin": 2,
-    "wind_kmh": 9
+    "wind_kmh": 8
    },
    {
     "code": 3,
@@ -355,9 +326,20 @@
     "tmax": 7,
     "tmin": -1,
     "wind_kmh": 12
+   },
+   {
+    "code": 51,
+    "day": "2026-11-25",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 1.8,
+    "precip_prob": 48,
+    "tmax": 6,
+    "tmin": 2,
+    "wind_kmh": 11
    }
   ],
-  "read_on": "2026-11-18"
+  "read_on": "2026-11-19"
  },
  "station_names": {
   "59243002": {
