@@ -184,8 +184,8 @@
     "id": 59300016,
     "postcode": "59300",
     "prices": {
-     "e10": 1.906,
-     "gazole": 2.028
+     "e10": 1.884,
+     "gazole": 2.03
     },
     "town": "Valenciennes"
    },
@@ -194,7 +194,8 @@
     "id": 59300015,
     "postcode": "59300",
     "prices": {
-     "gazole": 2.028
+     "e10": 1.884,
+     "gazole": 2.03
     },
     "town": "Valenciennes"
    },
@@ -278,11 +279,11 @@
     "day": "2026-11-18",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 26.8,
+    "precip_mm": 28.2,
     "precip_prob": 98,
     "tmax": 11,
     "tmin": 9,
-    "wind_kmh": 27
+    "wind_kmh": 29
    },
    {
     "code": 63,
@@ -296,15 +297,15 @@
     "wind_kmh": 26
    },
    {
-    "code": 80,
+    "code": 63,
     "day": "2026-11-20",
-    "emoji": "🌦️",
-    "label": "Averses faibles",
-    "precip_mm": 12.43,
+    "emoji": "🌧️",
+    "label": "Pluie",
+    "precip_mm": 11.78,
     "precip_prob": 82,
-    "tmax": 10,
-    "tmin": 4,
-    "wind_kmh": 20
+    "tmax": 11,
+    "tmin": 5,
+    "wind_kmh": 23
    },
    {
     "code": 3,
@@ -312,10 +313,10 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 35,
+    "precip_prob": 22,
     "tmax": 9,
     "tmin": 2,
-    "wind_kmh": 10
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -323,21 +324,21 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 51,
+    "precip_prob": 67,
     "tmax": 7,
-    "tmin": 2,
-    "wind_kmh": 11
+    "tmin": 0,
+    "wind_kmh": 12
    },
    {
-    "code": 51,
+    "code": 45,
     "day": "2026-11-23",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.9,
-    "precip_prob": 25,
-    "tmax": 11,
-    "tmin": 3,
-    "wind_kmh": 15
+    "emoji": "🌫️",
+    "label": "Brouillard",
+    "precip_mm": 0.0,
+    "precip_prob": 35,
+    "tmax": 7,
+    "tmin": -2,
+    "wind_kmh": 10
    },
    {
     "code": 51,
@@ -345,7 +346,7 @@
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 0.8,
-    "precip_prob": 31,
+    "precip_prob": 37,
     "tmax": 9,
     "tmin": 4,
     "wind_kmh": 16
