@@ -110,10 +110,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-19"
+  "read_on": "2026-11-20"
  },
  "carburants": {
-  "read_on": "2026-11-19",
+  "read_on": "2026-11-20",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -259,17 +259,6 @@
  "meteo": {
   "days": [
    {
-    "code": 63,
-    "day": "2026-11-19",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 11.3,
-    "precip_prob": 100,
-    "tmax": 11,
-    "tmin": 9,
-    "wind_kmh": 24
-   },
-   {
     "code": 61,
     "day": "2026-11-20",
     "emoji": "🌧️",
@@ -334,9 +323,20 @@
     "tmax": 5,
     "tmin": -2,
     "wind_kmh": 10
+   },
+   {
+    "code": 51,
+    "day": "2026-11-26",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 1.2,
+    "precip_prob": 35,
+    "tmax": 7,
+    "tmin": 3,
+    "wind_kmh": 8
    }
   ],
-  "read_on": "2026-11-19"
+  "read_on": "2026-11-20"
  },
  "station_names": {
   "59243002": {
