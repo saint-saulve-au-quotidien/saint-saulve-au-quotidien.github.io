@@ -169,8 +169,8 @@
     "id": 59300016,
     "postcode": "59300",
     "prices": {
-     "e10": 1.884,
-     "gazole": 2.03
+     "e10": 1.887,
+     "gazole": 2.036
     },
     "town": "Valenciennes"
    },
@@ -179,8 +179,8 @@
     "id": 59300015,
     "postcode": "59300",
     "prices": {
-     "e10": 1.884,
-     "gazole": 2.03
+     "e10": 1.887,
+     "gazole": 2.036
     },
     "town": "Valenciennes"
    },
@@ -262,12 +262,12 @@
  "meteo": {
   "days": [
    {
-    "code": 61,
+    "code": 63,
     "day": "2026-11-19",
     "emoji": "🌧️",
-    "label": "Pluie faible",
+    "label": "Pluie",
     "precip_mm": 8.9,
-    "precip_prob": 99,
+    "precip_prob": 100,
     "tmax": 11,
     "tmin": 9,
     "wind_kmh": 25
@@ -277,22 +277,22 @@
     "day": "2026-11-20",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 9.8,
-    "precip_prob": 80,
+    "precip_mm": 7.8,
+    "precip_prob": 81,
     "tmax": 10,
-    "tmin": 2,
-    "wind_kmh": 22
+    "tmin": 3,
+    "wind_kmh": 24
    },
    {
     "code": 3,
     "day": "2026-11-21",
     "emoji": "☁️",
     "label": "Ciel couvert",
-    "precip_mm": 0.0,
-    "precip_prob": 37,
+    "precip_mm": 0.1,
+    "precip_prob": 2,
     "tmax": 9,
     "tmin": 2,
-    "wind_kmh": 8
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -300,21 +300,21 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 61,
-    "tmax": 8,
-    "tmin": 1,
-    "wind_kmh": 12
+    "precip_prob": 58,
+    "tmax": 7,
+    "tmin": 2,
+    "wind_kmh": 14
    },
    {
-    "code": 45,
+    "code": 3,
     "day": "2026-11-23",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 28,
     "tmax": 4,
-    "tmin": -1,
-    "wind_kmh": 8
+    "tmin": -2,
+    "wind_kmh": 13
    },
    {
     "code": 3,
@@ -322,10 +322,10 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 24,
-    "tmax": 7,
-    "tmin": -1,
-    "wind_kmh": 12
+    "precip_prob": 10,
+    "tmax": 4,
+    "tmin": -3,
+    "wind_kmh": 13
    },
    {
     "code": 51,
@@ -333,7 +333,7 @@
     "emoji": "🌦️",
     "label": "Bruine faible",
     "precip_mm": 1.8,
-    "precip_prob": 48,
+    "precip_prob": 46,
     "tmax": 6,
     "tmin": 2,
     "wind_kmh": 11
