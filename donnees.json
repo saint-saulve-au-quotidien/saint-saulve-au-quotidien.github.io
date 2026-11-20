@@ -66,6 +66,15 @@
    },
    {
     "all_day": false,
+    "end": "2026-12-05T12:00:00+01:00",
+    "place": "Espace Cécile Gallez",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-05T10:00:00+01:00",
+    "title": "ASSMAT’DATING",
+    "url": "https://www.ville-saint-saulve.fr/event/assmatdating-3/"
+   },
+   {
+    "all_day": false,
     "end": null,
     "place": "Salle des Fêtes",
     "source": "Mairie de Saint-Saulve",
@@ -121,7 +130,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.999,
-     "gazole": 2.159
+     "gazole": 2.149
     },
     "town": "Valenciennes"
    },
@@ -140,7 +149,6 @@
     "id": 59264001,
     "postcode": "59264",
     "prices": {
-     "e10": 1.902,
      "gazole": 2.036
     },
     "town": "Onnaing"
