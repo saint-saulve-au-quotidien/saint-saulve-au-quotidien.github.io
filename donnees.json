@@ -263,10 +263,10 @@
     "day": "2026-11-20",
     "emoji": "🌧️",
     "label": "Pluie",
-    "precip_mm": 17.6,
+    "precip_mm": 20.3,
     "precip_prob": 100,
     "tmax": 10,
-    "tmin": 3,
+    "tmin": 4,
     "wind_kmh": 25
    },
    {
