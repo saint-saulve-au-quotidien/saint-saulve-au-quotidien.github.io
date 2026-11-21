@@ -272,7 +272,7 @@
     "precip_prob": 0,
     "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 13
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -294,7 +294,7 @@
     "precip_prob": 4,
     "tmax": 5,
     "tmin": -2,
-    "wind_kmh": 11
+    "wind_kmh": 14
    },
    {
     "code": 3,
@@ -303,9 +303,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 6,
-    "tmax": 5,
+    "tmax": 4,
     "tmin": -3,
-    "wind_kmh": 13
+    "wind_kmh": 12
    },
    {
     "code": 3,
@@ -314,9 +314,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 24,
-    "tmax": 3,
+    "tmax": 4,
     "tmin": -2,
-    "wind_kmh": 18
+    "wind_kmh": 17
    },
    {
     "code": 3,
@@ -327,18 +327,18 @@
     "precip_prob": 14,
     "tmax": 1,
     "tmin": -3,
-    "wind_kmh": 16
+    "wind_kmh": 15
    },
    {
-    "code": 51,
+    "code": 3,
     "day": "2026-11-27",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.4,
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
     "precip_prob": 16,
-    "tmax": 5,
-    "tmin": -4,
-    "wind_kmh": 19
+    "tmax": 1,
+    "tmin": -3,
+    "wind_kmh": 11
    }
   ],
   "read_on": "2026-11-21"
