@@ -198,10 +198,7 @@
     "address": "3 Boulevard Eisen",
     "id": 59300005,
     "postcode": "59300",
-    "prices": {
-     "e10": 1.913,
-     "gazole": 2.218
-    },
+    "prices": {},
     "town": "Valenciennes"
    },
    {
@@ -280,7 +277,7 @@
     "precip_prob": 0,
     "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 14
+    "wind_kmh": 13
    },
    {
     "code": 3,
@@ -302,13 +299,13 @@
     "precip_prob": 4,
     "tmax": 5,
     "tmin": -2,
-    "wind_kmh": 13
+    "wind_kmh": 11
    },
    {
-    "code": 0,
+    "code": 3,
     "day": "2026-11-24",
-    "emoji": "☀️",
-    "label": "Ciel dégagé",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 6,
     "tmax": 5,
