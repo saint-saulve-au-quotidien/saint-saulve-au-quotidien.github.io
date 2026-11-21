@@ -158,10 +158,7 @@
     "address": "386-388 Rue Jean Jaurès",
     "id": 59860003,
     "postcode": "59860",
-    "prices": {
-     "e10": 1.919,
-     "gazole": 2.059
-    },
+    "prices": {},
     "town": "Bruay-sur-l'Escaut"
    },
    {
@@ -272,7 +269,7 @@
     "precip_prob": 0,
     "tmax": 9,
     "tmin": 1,
-    "wind_kmh": 10
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -282,8 +279,8 @@
     "precip_mm": 0.0,
     "precip_prob": 4,
     "tmax": 6,
-    "tmin": 3,
-    "wind_kmh": 13
+    "tmin": 1,
+    "wind_kmh": 15
    },
    {
     "code": 45,
@@ -294,7 +291,7 @@
     "precip_prob": 2,
     "tmax": 5,
     "tmin": -2,
-    "wind_kmh": 15
+    "wind_kmh": 13
    },
    {
     "code": 3,
