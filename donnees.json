@@ -272,7 +272,7 @@
     "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 0,
-    "tmax": 4,
+    "tmax": 5,
     "tmin": 0,
     "wind_kmh": 12
    },
@@ -285,7 +285,7 @@
     "precip_prob": 2,
     "tmax": 5,
     "tmin": -1,
-    "wind_kmh": 14
+    "wind_kmh": 16
    },
    {
     "code": 71,
