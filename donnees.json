@@ -270,8 +270,8 @@
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 5,
-    "tmin": -1,
-    "wind_kmh": 13
+    "tmin": 0,
+    "wind_kmh": 14
    },
    {
     "code": 3,
@@ -289,7 +289,7 @@
     "day": "2026-11-25",
     "emoji": "🌦️",
     "label": "Bruine faible",
-    "precip_mm": 2.57,
+    "precip_mm": 2.5,
     "precip_prob": 61,
     "tmax": 3,
     "tmin": -1,
