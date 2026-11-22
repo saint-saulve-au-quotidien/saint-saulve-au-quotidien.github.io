@@ -263,15 +263,15 @@
     "wind_kmh": 14
    },
    {
-    "code": 3,
+    "code": 45,
     "day": "2026-11-23",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
+    "emoji": "🌫️",
+    "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 0,
-    "tmax": 6,
-    "tmin": -1,
-    "wind_kmh": 13
+    "tmax": 5,
+    "tmin": 0,
+    "wind_kmh": 12
    },
    {
     "code": 3,
@@ -280,19 +280,19 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 6,
-    "tmax": 6,
+    "tmax": 5,
     "tmin": -1,
-    "wind_kmh": 16
+    "wind_kmh": 13
    },
    {
     "code": 53,
     "day": "2026-11-25",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 4.2,
+    "precip_mm": 2.4,
     "precip_prob": 57,
     "tmax": 4,
-    "tmin": -1,
+    "tmin": 1,
     "wind_kmh": 14
    },
    {
@@ -302,9 +302,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 10,
-    "tmax": 2,
+    "tmax": 1,
     "tmin": -3,
-    "wind_kmh": 14
+    "wind_kmh": 13
    },
    {
     "code": 3,
@@ -314,8 +314,8 @@
     "precip_mm": 0.0,
     "precip_prob": 6,
     "tmax": 3,
-    "tmin": -3,
-    "wind_kmh": 12
+    "tmin": -4,
+    "wind_kmh": 10
    },
    {
     "code": 3,
