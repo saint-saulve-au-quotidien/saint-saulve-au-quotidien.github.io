@@ -280,9 +280,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 2,
-    "tmax": 6,
+    "tmax": 5,
     "tmin": -1,
-    "wind_kmh": 15
+    "wind_kmh": 12
    },
    {
     "code": 53,
