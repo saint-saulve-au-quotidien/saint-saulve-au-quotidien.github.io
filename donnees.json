@@ -111,7 +111,6 @@
     "id": 59300021,
     "postcode": "59300",
     "prices": {
-     "e10": 1.999,
      "gazole": 2.139
     },
     "town": "Valenciennes"
@@ -246,8 +245,8 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 0,
-    "tmax": 4,
-    "tmin": -1,
+    "tmax": 5,
+    "tmin": 0,
     "wind_kmh": 16
    },
    {
@@ -259,16 +258,16 @@
     "precip_prob": 0,
     "tmax": 5,
     "tmin": -1,
-    "wind_kmh": 13
+    "wind_kmh": 10
    },
    {
     "code": 61,
     "day": "2026-11-25",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 6.88,
-    "precip_prob": 61,
-    "tmax": 2,
+    "precip_mm": 5.45,
+    "precip_prob": 63,
+    "tmax": 3,
     "tmin": -2,
     "wind_kmh": 15
    },
@@ -278,7 +277,7 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 2,
+    "precip_prob": 0,
     "tmax": 0,
     "tmin": -4,
     "wind_kmh": 14
@@ -289,7 +288,7 @@
     "emoji": "🌤️",
     "label": "Plutôt dégagé",
     "precip_mm": 0.0,
-    "precip_prob": 5,
+    "precip_prob": 8,
     "tmax": 2,
     "tmin": -4,
     "wind_kmh": 8
@@ -300,7 +299,7 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 10,
+    "precip_prob": 13,
     "tmax": 4,
     "tmin": -2,
     "wind_kmh": 15
@@ -311,7 +310,7 @@
     "emoji": "🌦️",
     "label": "Bruine",
     "precip_mm": 4.8,
-    "precip_prob": 28,
+    "precip_prob": 31,
     "tmax": 5,
     "tmin": 0,
     "wind_kmh": 16
