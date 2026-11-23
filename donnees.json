@@ -140,8 +140,8 @@
     "id": 59860003,
     "postcode": "59860",
     "prices": {
-     "e10": 1.919,
-     "gazole": 2.059
+     "e10": 1.909,
+     "gazole": 2.049
     },
     "town": "Bruay-sur-l'Escaut"
    },
@@ -203,7 +203,10 @@
     "address": "10 RUE JEAN JAURES",
     "id": 59278003,
     "postcode": "59278",
-    "prices": {},
+    "prices": {
+     "e10": 1.918,
+     "gazole": 2.058
+    },
     "town": "Escautpont"
    },
    {
