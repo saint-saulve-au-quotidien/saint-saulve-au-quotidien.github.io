@@ -112,7 +112,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.999,
-     "gazole": 2.149
+     "gazole": 2.139
     },
     "town": "Valenciennes"
    },
@@ -121,8 +121,8 @@
     "id": 59770002,
     "postcode": "59770",
     "prices": {
-     "e10": 1.887,
-     "gazole": 2.125
+     "e10": 1.896,
+     "gazole": 2.033
     },
     "town": "Marly"
    },
@@ -189,7 +189,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.896,
-     "gazole": 2.046
+     "gazole": 2.019
     },
     "town": "Valenciennes"
    },
@@ -204,10 +204,7 @@
     "address": "10 RUE JEAN JAURES",
     "id": 59278003,
     "postcode": "59278",
-    "prices": {
-     "e10": 1.921,
-     "gazole": 2.06
-    },
+    "prices": {},
     "town": "Escautpont"
    },
    {
@@ -249,7 +246,7 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 0,
-    "tmax": 5,
+    "tmax": 4,
     "tmin": -1,
     "wind_kmh": 16
    },
@@ -265,11 +262,11 @@
     "wind_kmh": 13
    },
    {
-    "code": 51,
+    "code": 61,
     "day": "2026-11-25",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 1.1,
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 6.88,
     "precip_prob": 61,
     "tmax": 2,
     "tmin": -2,
