@@ -3,15 +3,6 @@
   "events": [
    {
     "all_day": false,
-    "end": null,
-    "place": "Mairie",
-    "source": "Mairie de Saint-Saulve",
-    "start": "2026-11-23T19:00:00+01:00",
-    "title": "Réunion du conseil municipal",
-    "url": "https://www.ville-saint-saulve.fr/event/reunion-du-conseil-municipal-26/"
-   },
-   {
-    "all_day": false,
     "end": "2026-11-29T17:00:00+01:00",
     "place": "O’Centr’Halle",
     "source": "Mairie de Saint-Saulve",
@@ -101,10 +92,10 @@
     "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-60/"
    }
   ],
-  "read_on": "2026-11-23"
+  "read_on": "2026-11-24"
  },
  "carburants": {
-  "read_on": "2026-11-23",
+  "read_on": "2026-11-24",
   "stations": [
    {
     "address": "36 AV DE ST AMAND",
@@ -160,8 +151,8 @@
     "id": 59300016,
     "postcode": "59300",
     "prices": {
-     "e10": 1.872,
-     "gazole": 2.022
+     "e10": 1.851,
+     "gazole": 1.99
     },
     "town": "Valenciennes"
    },
@@ -170,8 +161,8 @@
     "id": 59300015,
     "postcode": "59300",
     "prices": {
-     "e10": 1.872,
-     "gazole": 2.022
+     "e10": 1.851,
+     "gazole": 1.99
     },
     "town": "Valenciennes"
    },
