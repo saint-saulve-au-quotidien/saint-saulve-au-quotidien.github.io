@@ -223,7 +223,10 @@
     "address": "125 Rue Jean Jaurès",
     "id": 59880003,
     "postcode": "59880",
-    "prices": {},
+    "prices": {
+     "e10": 1.896,
+     "gazole": 2.014
+    },
     "town": "Saint-Saulve"
    },
    {
@@ -263,15 +266,15 @@
     "wind_kmh": 12
    },
    {
-    "code": 53,
+    "code": 51,
     "day": "2026-11-25",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 2.3,
+    "label": "Bruine faible",
+    "precip_mm": 0.9,
     "precip_prob": 86,
-    "tmax": 2,
+    "tmax": 3,
     "tmin": -1,
-    "wind_kmh": 15
+    "wind_kmh": 14
    },
    {
     "code": 3,
@@ -280,9 +283,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 0,
-    "tmax": 1,
+    "tmax": 2,
     "tmin": -3,
-    "wind_kmh": 13
+    "wind_kmh": 14
    },
    {
     "code": 1,
