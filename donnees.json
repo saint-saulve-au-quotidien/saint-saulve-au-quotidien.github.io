@@ -266,15 +266,15 @@
     "wind_kmh": 12
    },
    {
-    "code": 53,
+    "code": 51,
     "day": "2026-11-25",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 3.2,
+    "label": "Bruine faible",
+    "precip_mm": 2.2,
     "precip_prob": 70,
-    "tmax": 3,
-    "tmin": -1,
-    "wind_kmh": 15
+    "tmax": 2,
+    "tmin": 0,
+    "wind_kmh": 14
    },
    {
     "code": 3,
