@@ -21,6 +21,15 @@
    },
    {
     "all_day": false,
+    "end": "2026-12-01T21:00:00+01:00",
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-01T18:15:00+01:00",
+    "title": "SOIRÉE PARENTALITÉ : Spectacle « PARENT 2 »",
+    "url": "https://www.ville-saint-saulve.fr/event/soiree-parentalite-spectacle-parent-2/"
+   },
+   {
+    "all_day": false,
     "end": "2026-12-06T17:00:00+01:00",
     "place": "O’Centr’Halle",
     "source": "Mairie de Saint-Saulve",
@@ -63,6 +72,15 @@
     "start": "2026-12-12T16:00:00+01:00",
     "title": "Les Fééries de Saint-Saulve",
     "url": "https://www.ville-saint-saulve.fr/event/les-feeries-de-saint-saulve-9/"
+   },
+   {
+    "all_day": false,
+    "end": null,
+    "place": "Salle des Fêtes",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-13T14:00:00+01:00",
+    "title": "Super loto traditionnel",
+    "url": "https://www.ville-saint-saulve.fr/event/super-loto-traditionnel-64/"
    },
    {
     "all_day": false,
@@ -195,8 +213,8 @@
     "id": 59278003,
     "postcode": "59278",
     "prices": {
-     "e10": 1.918,
-     "gazole": 2.058
+     "e10": 1.909,
+     "gazole": 2.049
     },
     "town": "Escautpont"
    },
@@ -244,11 +262,11 @@
     "wind_kmh": 12
    },
    {
-    "code": 51,
+    "code": 53,
     "day": "2026-11-25",
     "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 2.1,
+    "label": "Bruine",
+    "precip_mm": 2.4,
     "precip_prob": 78,
     "tmax": 2,
     "tmin": 0,
