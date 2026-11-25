@@ -121,7 +121,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.989,
-     "gazole": 2.129
+     "gazole": 2.119
     },
     "town": "Valenciennes"
    },
@@ -266,7 +266,7 @@
     "day": "2026-11-25",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 1.7,
+    "precip_mm": 1.9,
     "precip_prob": 76,
     "tmax": 2,
     "tmin": -1,
@@ -280,7 +280,7 @@
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 2,
-    "tmin": -3,
+    "tmin": -2,
     "wind_kmh": 12
    },
    {
@@ -291,7 +291,7 @@
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
-    "tmin": -5,
+    "tmin": -4,
     "wind_kmh": 8
    },
    {
