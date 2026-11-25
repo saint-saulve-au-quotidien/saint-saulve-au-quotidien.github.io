@@ -130,8 +130,8 @@
     "id": 59770002,
     "postcode": "59770",
     "prices": {
-     "e10": 1.874,
-     "gazole": 2.024
+     "e10": 1.896,
+     "gazole": 2.03
     },
     "town": "Marly"
    },
@@ -140,8 +140,8 @@
     "id": 59264001,
     "postcode": "59264",
     "prices": {
-     "e10": 1.858,
-     "gazole": 2.008
+     "e10": 1.854,
+     "gazole": 1.983
     },
     "town": "Onnaing"
    },
@@ -160,8 +160,8 @@
     "id": 59300006,
     "postcode": "59300",
     "prices": {
-     "e10": 1.869,
-     "gazole": 2.009
+     "e10": 1.859,
+     "gazole": 2.019
     },
     "town": "Valenciennes"
    },
@@ -266,17 +266,17 @@
     "day": "2026-11-25",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 2.2,
+    "precip_mm": 2.3,
     "precip_prob": 76,
     "tmax": 2,
     "tmin": -1,
     "wind_kmh": 14
    },
    {
-    "code": 2,
+    "code": 3,
     "day": "2026-11-26",
-    "emoji": "⛅",
-    "label": "Éclaircies",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 2,
@@ -290,8 +290,8 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 0,
-    "tmax": 3,
-    "tmin": -5,
+    "tmax": 2,
+    "tmin": -4,
     "wind_kmh": 9
    },
    {
@@ -302,19 +302,19 @@
     "precip_mm": 0.0,
     "precip_prob": 6,
     "tmax": 4,
-    "tmin": -3,
-    "wind_kmh": 15
+    "tmin": -2,
+    "wind_kmh": 16
    },
    {
-    "code": 3,
+    "code": 51,
     "day": "2026-11-29",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
-    "precip_mm": 0.0,
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.3,
     "precip_prob": 21,
-    "tmax": 4,
-    "tmin": 0,
-    "wind_kmh": 15
+    "tmax": 5,
+    "tmin": 1,
+    "wind_kmh": 16
    },
    {
     "code": 3,
@@ -323,8 +323,8 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 2,
-    "tmax": 7,
-    "tmin": 3,
+    "tmax": 6,
+    "tmin": 4,
     "wind_kmh": 11
    },
    {
@@ -334,9 +334,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 11,
-    "tmax": 7,
-    "tmin": 3,
-    "wind_kmh": 14
+    "tmax": 8,
+    "tmin": 4,
+    "wind_kmh": 16
    }
   ],
   "read_on": "2026-11-25"
