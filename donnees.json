@@ -121,7 +121,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.989,
-     "gazole": 2.119
+     "gazole": 2.109
     },
     "town": "Valenciennes"
    },
@@ -161,7 +161,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.849,
-     "gazole": 1.999
+     "gazole": 1.971
     },
     "town": "Valenciennes"
    },
@@ -189,7 +189,10 @@
     "address": "3 Boulevard Eisen",
     "id": 59300005,
     "postcode": "59300",
-    "prices": {},
+    "prices": {
+     "e10": 1.913,
+     "gazole": 2.218
+    },
     "town": "Valenciennes"
    },
    {
@@ -197,7 +200,7 @@
     "id": 59300013,
     "postcode": "59300",
     "prices": {
-     "e10": 1.896,
+     "e10": 1.888,
      "gazole": 1.998
     },
     "town": "Valenciennes"
@@ -217,8 +220,8 @@
     "id": 59278003,
     "postcode": "59278",
     "prices": {
-     "e10": 1.909,
-     "gazole": 2.049
+     "e10": 1.889,
+     "gazole": 2.036
     },
     "town": "Escautpont"
    },
@@ -281,8 +284,8 @@
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
-    "tmin": -4,
-    "wind_kmh": 8
+    "tmin": -3,
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -291,9 +294,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 4,
-    "tmax": 4,
-    "tmin": -2,
-    "wind_kmh": 19
+    "tmax": 3,
+    "tmin": -1,
+    "wind_kmh": 18
    },
    {
     "code": 63,
