@@ -284,8 +284,8 @@
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
-    "tmin": -3,
-    "wind_kmh": 8
+    "tmin": -4,
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -295,15 +295,15 @@
     "precip_mm": 0.0,
     "precip_prob": 10,
     "tmax": 3,
-    "tmin": -1,
-    "wind_kmh": 23
+    "tmin": -2,
+    "wind_kmh": 22
    },
    {
     "code": 53,
     "day": "2026-11-29",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 3.9,
+    "precip_mm": 4.13,
     "precip_prob": 70,
     "tmax": 5,
     "tmin": 2,
