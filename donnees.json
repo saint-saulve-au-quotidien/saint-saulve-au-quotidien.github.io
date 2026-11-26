@@ -296,18 +296,18 @@
     "precip_prob": 8,
     "tmax": 4,
     "tmin": -2,
-    "wind_kmh": 21
+    "wind_kmh": 20
    },
    {
-    "code": 63,
+    "code": 53,
     "day": "2026-11-29",
-    "emoji": "🌧️",
-    "label": "Pluie",
-    "precip_mm": 8.6,
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 3.9,
     "precip_prob": 57,
     "tmax": 5,
-    "tmin": 1,
-    "wind_kmh": 18
+    "tmin": 2,
+    "wind_kmh": 17
    },
    {
     "code": 45,
@@ -316,27 +316,27 @@
     "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 2,
-    "tmax": 5,
+    "tmax": 6,
     "tmin": 1,
-    "wind_kmh": 14
+    "wind_kmh": 13
    },
    {
-    "code": 45,
+    "code": 3,
     "day": "2026-12-01",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 17,
-    "tmax": 6,
-    "tmin": 2,
-    "wind_kmh": 18
+    "tmax": 7,
+    "tmin": 3,
+    "wind_kmh": 17
    },
    {
     "code": 53,
     "day": "2026-12-02",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 8.8,
+    "precip_mm": 8.2,
     "precip_prob": 45,
     "tmax": 8,
     "tmin": 5,
