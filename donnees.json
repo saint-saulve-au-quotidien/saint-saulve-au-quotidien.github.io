@@ -262,15 +262,15 @@
  "meteo": {
   "days": [
    {
-    "code": 53,
+    "code": 3,
     "day": "2026-11-26",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 0.6,
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
     "precip_prob": 4,
-    "tmax": 3,
+    "tmax": 2,
     "tmin": -2,
-    "wind_kmh": 12
+    "wind_kmh": 11
    },
    {
     "code": 1,
@@ -280,7 +280,7 @@
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
-    "tmin": -3,
+    "tmin": -4,
     "wind_kmh": 8
    },
    {
@@ -292,16 +292,16 @@
     "precip_prob": 2,
     "tmax": 4,
     "tmin": -2,
-    "wind_kmh": 19
+    "wind_kmh": 18
    },
    {
     "code": 53,
     "day": "2026-11-29",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 3.6,
+    "precip_mm": 2.2,
     "precip_prob": 57,
-    "tmax": 3,
+    "tmax": 4,
     "tmin": 1,
     "wind_kmh": 18
    },
@@ -312,9 +312,9 @@
     "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 4,
-    "tmax": 5,
+    "tmax": 4,
     "tmin": 1,
-    "wind_kmh": 15
+    "wind_kmh": 11
    },
    {
     "code": 3,
@@ -325,7 +325,7 @@
     "precip_prob": 17,
     "tmax": 6,
     "tmin": 2,
-    "wind_kmh": 18
+    "wind_kmh": 16
    },
    {
     "code": 51,
