@@ -294,9 +294,9 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 10,
-    "tmax": 4,
+    "tmax": 3,
     "tmin": -1,
-    "wind_kmh": 21
+    "wind_kmh": 23
    },
    {
     "code": 53,
@@ -307,7 +307,7 @@
     "precip_prob": 70,
     "tmax": 5,
     "tmin": 2,
-    "wind_kmh": 20
+    "wind_kmh": 21
    },
    {
     "code": 45,
