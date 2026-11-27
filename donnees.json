@@ -283,7 +283,7 @@
     "precip_prob": 0,
     "tmax": 3,
     "tmin": -3,
-    "wind_kmh": 8
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -292,20 +292,20 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 2,
-    "tmax": 4,
+    "tmax": 3,
     "tmin": -2,
-    "wind_kmh": 19
+    "wind_kmh": 21
    },
    {
-    "code": 61,
+    "code": 55,
     "day": "2026-11-29",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 5.8,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 4.6,
     "precip_prob": 84,
-    "tmax": 4,
-    "tmin": 2,
-    "wind_kmh": 19
+    "tmax": 3,
+    "tmin": 0,
+    "wind_kmh": 21
    },
    {
     "code": 3,
