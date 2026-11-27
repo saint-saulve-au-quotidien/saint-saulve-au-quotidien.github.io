@@ -93,6 +93,15 @@
    },
    {
     "all_day": false,
+    "end": "2026-12-19T12:00:00+01:00",
+    "place": "O’centr’halle",
+    "source": "Mairie de Saint-Saulve",
+    "start": "2026-12-19T08:00:00+01:00",
+    "title": "Don de sang",
+    "url": "https://www.ville-saint-saulve.fr/event/don-de-sang-11/"
+   },
+   {
+    "all_day": false,
     "end": "2026-12-19T23:00:00+01:00",
     "place": "",
     "source": "Mairie de Saint-Saulve",
@@ -201,7 +210,7 @@
     "postcode": "59300",
     "prices": {
      "e10": 1.888,
-     "gazole": 1.998
+     "gazole": 1.968
     },
     "town": "Valenciennes"
    },
@@ -266,15 +275,15 @@
  "meteo": {
   "days": [
    {
-    "code": 0,
+    "code": 1,
     "day": "2026-11-27",
-    "emoji": "☀️",
-    "label": "Ciel dégagé",
+    "emoji": "🌤️",
+    "label": "Plutôt dégagé",
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
     "tmin": -3,
-    "wind_kmh": 9
+    "wind_kmh": 8
    },
    {
     "code": 3,
@@ -288,15 +297,15 @@
     "wind_kmh": 21
    },
    {
-    "code": 55,
+    "code": 61,
     "day": "2026-11-29",
-    "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 4.7,
+    "emoji": "🌧️",
+    "label": "Pluie faible",
+    "precip_mm": 7.2,
     "precip_prob": 78,
     "tmax": 3,
     "tmin": 2,
-    "wind_kmh": 20
+    "wind_kmh": 21
    },
    {
     "code": 53,
