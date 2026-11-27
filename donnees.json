@@ -294,18 +294,18 @@
     "precip_prob": 2,
     "tmax": 3,
     "tmin": -2,
-    "wind_kmh": 20
+    "wind_kmh": 23
    },
    {
     "code": 53,
     "day": "2026-11-29",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 2.3,
+    "precip_mm": 2.8,
     "precip_prob": 85,
-    "tmax": 5,
-    "tmin": 1,
-    "wind_kmh": 21
+    "tmax": 4,
+    "tmin": 0,
+    "wind_kmh": 20
    },
    {
     "code": 45,
@@ -314,9 +314,9 @@
     "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 8,
-    "tmax": 7,
-    "tmin": 2,
-    "wind_kmh": 16
+    "tmax": 6,
+    "tmin": 1,
+    "wind_kmh": 15
    },
    {
     "code": 3,
@@ -325,20 +325,20 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 12,
-    "tmax": 6,
-    "tmin": 1,
+    "tmax": 5,
+    "tmin": 0,
     "wind_kmh": 18
    },
    {
-    "code": 55,
+    "code": 53,
     "day": "2026-12-02",
     "emoji": "🌦️",
-    "label": "Bruine dense",
-    "precip_mm": 4.5,
+    "label": "Bruine",
+    "precip_mm": 5.7,
     "precip_prob": 47,
-    "tmax": 8,
-    "tmin": 2,
-    "wind_kmh": 18
+    "tmax": 10,
+    "tmin": 4,
+    "wind_kmh": 27
    },
    {
     "code": 3,
@@ -348,8 +348,8 @@
     "precip_mm": 0.0,
     "precip_prob": 10,
     "tmax": 8,
-    "tmin": 0,
-    "wind_kmh": 15
+    "tmin": 2,
+    "wind_kmh": 10
    }
   ],
   "read_on": "2026-11-27"
