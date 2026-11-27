@@ -129,7 +129,8 @@
     "id": 59300021,
     "postcode": "59300",
     "prices": {
-     "gazole": 2.109
+     "e10": 1.969,
+     "gazole": 2.069
     },
     "town": "Valenciennes"
    },
@@ -282,7 +283,7 @@
     "precip_prob": 0,
     "tmax": 3,
     "tmin": -3,
-    "wind_kmh": 9
+    "wind_kmh": 8
    },
    {
     "code": 3,
@@ -293,62 +294,62 @@
     "precip_prob": 2,
     "tmax": 4,
     "tmin": -2,
-    "wind_kmh": 20
+    "wind_kmh": 19
    },
    {
     "code": 61,
     "day": "2026-11-29",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 4.6,
+    "precip_mm": 5.8,
     "precip_prob": 84,
-    "tmax": 3,
-    "tmin": 1,
-    "wind_kmh": 20
+    "tmax": 4,
+    "tmin": 2,
+    "wind_kmh": 19
    },
    {
-    "code": 53,
+    "code": 3,
     "day": "2026-11-30",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 1.1,
+    "emoji": "☁️",
+    "label": "Ciel couvert",
+    "precip_mm": 0.0,
     "precip_prob": 4,
     "tmax": 7,
     "tmin": 3,
-    "wind_kmh": 15
+    "wind_kmh": 16
    },
    {
-    "code": 45,
+    "code": 3,
     "day": "2026-12-01",
-    "emoji": "🌫️",
-    "label": "Brouillard",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 12,
     "tmax": 6,
+    "tmin": 1,
+    "wind_kmh": 18
+   },
+   {
+    "code": 55,
+    "day": "2026-12-02",
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 4.5,
+    "precip_prob": 39,
+    "tmax": 8,
     "tmin": 2,
     "wind_kmh": 18
    },
    {
-    "code": 61,
-    "day": "2026-12-02",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 5.7,
-    "precip_prob": 39,
-    "tmax": 8,
-    "tmin": 3,
-    "wind_kmh": 21
-   },
-   {
-    "code": 2,
+    "code": 3,
     "day": "2026-12-03",
-    "emoji": "⛅",
-    "label": "Éclaircies",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 26,
     "tmax": 8,
     "tmin": 0,
-    "wind_kmh": 12
+    "wind_kmh": 15
    }
   ],
   "read_on": "2026-11-27"
