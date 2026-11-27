@@ -129,7 +129,6 @@
     "id": 59300021,
     "postcode": "59300",
     "prices": {
-     "e10": 1.989,
      "gazole": 2.109
     },
     "town": "Valenciennes"
@@ -239,7 +238,7 @@
     "id": 59880003,
     "postcode": "59880",
     "prices": {
-     "e10": 1.896,
+     "e10": 1.888,
      "gazole": 2.014
     },
     "town": "Saint-Saulve"
@@ -275,15 +274,15 @@
  "meteo": {
   "days": [
    {
-    "code": 3,
+    "code": 2,
     "day": "2026-11-27",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
+    "emoji": "⛅",
+    "label": "Éclaircies",
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
     "tmin": -3,
-    "wind_kmh": 8
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -294,18 +293,18 @@
     "precip_prob": 2,
     "tmax": 4,
     "tmin": -2,
-    "wind_kmh": 24
+    "wind_kmh": 20
    },
    {
     "code": 61,
     "day": "2026-11-29",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 6.1,
+    "precip_mm": 4.6,
     "precip_prob": 84,
     "tmax": 3,
     "tmin": 1,
-    "wind_kmh": 22
+    "wind_kmh": 20
    },
    {
     "code": 53,
