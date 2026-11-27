@@ -131,7 +131,7 @@
     "postcode": "59770",
     "prices": {
      "e10": 1.862,
-     "gazole": 2.021
+     "gazole": 1.973
     },
     "town": "Marly"
    },
@@ -140,8 +140,8 @@
     "id": 59264001,
     "postcode": "59264",
     "prices": {
-     "e10": 1.845,
-     "gazole": 1.98
+     "e10": 1.836,
+     "gazole": 1.953
     },
     "town": "Onnaing"
    },
@@ -266,10 +266,10 @@
  "meteo": {
   "days": [
    {
-    "code": 1,
+    "code": 3,
     "day": "2026-11-27",
-    "emoji": "🌤️",
-    "label": "Plutôt dégagé",
+    "emoji": "☁️",
+    "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
@@ -283,20 +283,20 @@
     "label": "Ciel couvert",
     "precip_mm": 0.0,
     "precip_prob": 5,
-    "tmax": 3,
+    "tmax": 4,
     "tmin": -2,
-    "wind_kmh": 28
+    "wind_kmh": 21
    },
    {
     "code": 61,
     "day": "2026-11-29",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 5.4,
+    "precip_mm": 4.0,
     "precip_prob": 78,
-    "tmax": 5,
+    "tmax": 4,
     "tmin": 2,
-    "wind_kmh": 23
+    "wind_kmh": 20
    },
    {
     "code": 53,
