@@ -266,15 +266,15 @@
  "meteo": {
   "days": [
    {
-    "code": 2,
+    "code": 1,
     "day": "2026-11-27",
-    "emoji": "⛅",
-    "label": "Éclaircies",
+    "emoji": "🌤️",
+    "label": "Plutôt dégagé",
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
-    "tmin": -4,
-    "wind_kmh": 8
+    "tmin": -3,
+    "wind_kmh": 9
    },
    {
     "code": 3,
@@ -285,18 +285,18 @@
     "precip_prob": 5,
     "tmax": 3,
     "tmin": -2,
-    "wind_kmh": 22
+    "wind_kmh": 23
    },
    {
     "code": 61,
     "day": "2026-11-29",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 5.97,
+    "precip_mm": 5.53,
     "precip_prob": 78,
     "tmax": 5,
     "tmin": 1,
-    "wind_kmh": 23
+    "wind_kmh": 22
    },
    {
     "code": 45,
