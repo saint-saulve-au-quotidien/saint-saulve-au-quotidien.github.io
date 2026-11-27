@@ -273,7 +273,7 @@
     "precip_mm": 0.0,
     "precip_prob": 0,
     "tmax": 3,
-    "tmin": -3,
+    "tmin": -4,
     "wind_kmh": 8
    },
    {
@@ -285,18 +285,18 @@
     "precip_prob": 5,
     "tmax": 3,
     "tmin": -2,
-    "wind_kmh": 20
+    "wind_kmh": 22
    },
    {
     "code": 61,
     "day": "2026-11-29",
     "emoji": "🌧️",
     "label": "Pluie faible",
-    "precip_mm": 7.93,
+    "precip_mm": 5.97,
     "precip_prob": 78,
     "tmax": 5,
     "tmin": 1,
-    "wind_kmh": 21
+    "wind_kmh": 23
    },
    {
     "code": 45,
