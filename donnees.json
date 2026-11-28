@@ -279,18 +279,18 @@
     "precip_prob": 2,
     "tmax": 3,
     "tmin": -2,
-    "wind_kmh": 21
+    "wind_kmh": 22
    },
    {
-    "code": 61,
+    "code": 53,
     "day": "2026-11-29",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
+    "emoji": "🌦️",
+    "label": "Bruine",
     "precip_mm": 3.8,
     "precip_prob": 86,
     "tmax": 3,
-    "tmin": 0,
-    "wind_kmh": 23
+    "tmin": 1,
+    "wind_kmh": 20
    },
    {
     "code": 45,
@@ -299,9 +299,9 @@
     "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 4,
-    "tmax": 4,
+    "tmax": 5,
     "tmin": 0,
-    "wind_kmh": 18
+    "wind_kmh": 19
    },
    {
     "code": 3,
