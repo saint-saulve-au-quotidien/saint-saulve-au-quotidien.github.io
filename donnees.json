@@ -159,7 +159,6 @@
     "id": 59860003,
     "postcode": "59860",
     "prices": {
-     "e10": 1.889,
      "gazole": 1.969
     },
     "town": "Bruay-sur-l'Escaut"
@@ -280,18 +279,18 @@
     "precip_prob": 1,
     "tmax": 3,
     "tmin": -2,
-    "wind_kmh": 21
+    "wind_kmh": 22
    },
    {
-    "code": 61,
+    "code": 55,
     "day": "2026-11-29",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 3.7,
+    "emoji": "🌦️",
+    "label": "Bruine dense",
+    "precip_mm": 4.8,
     "precip_prob": 84,
     "tmax": 3,
     "tmin": 0,
-    "wind_kmh": 21
+    "wind_kmh": 20
    },
    {
     "code": 45,
@@ -302,7 +301,7 @@
     "precip_prob": 2,
     "tmax": 6,
     "tmin": 0,
-    "wind_kmh": 17
+    "wind_kmh": 15
    },
    {
     "code": 3,
