@@ -287,11 +287,11 @@
     "day": "2026-11-29",
     "emoji": "🌦️",
     "label": "Bruine dense",
-    "precip_mm": 3.5,
+    "precip_mm": 4.3,
     "precip_prob": 84,
     "tmax": 3,
     "tmin": 0,
-    "wind_kmh": 20
+    "wind_kmh": 22
    },
    {
     "code": 45,
