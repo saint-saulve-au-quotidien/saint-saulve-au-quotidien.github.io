@@ -277,18 +277,18 @@
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 0,
+    "precip_prob": 1,
     "tmax": 3,
     "tmin": -2,
     "wind_kmh": 21
    },
    {
-    "code": 53,
+    "code": 55,
     "day": "2026-11-29",
     "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 3.0,
-    "precip_prob": 67,
+    "label": "Bruine dense",
+    "precip_mm": 3.5,
+    "precip_prob": 84,
     "tmax": 3,
     "tmin": 0,
     "wind_kmh": 20
@@ -300,53 +300,53 @@
     "label": "Brouillard",
     "precip_mm": 0.0,
     "precip_prob": 2,
-    "tmax": 5,
+    "tmax": 6,
     "tmin": 0,
-    "wind_kmh": 15
-   },
-   {
-    "code": 51,
-    "day": "2026-12-01",
-    "emoji": "🌦️",
-    "label": "Bruine faible",
-    "precip_mm": 0.1,
-    "precip_prob": 31,
-    "tmax": 5,
-    "tmin": 1,
-    "wind_kmh": 20
-   },
-   {
-    "code": 53,
-    "day": "2026-12-02",
-    "emoji": "🌦️",
-    "label": "Bruine",
-    "precip_mm": 3.2,
-    "precip_prob": 55,
-    "tmax": 10,
-    "tmin": 4,
-    "wind_kmh": 24
-   },
-   {
-    "code": 45,
-    "day": "2026-12-03",
-    "emoji": "🌫️",
-    "label": "Brouillard",
-    "precip_mm": 0.0,
-    "precip_prob": 13,
-    "tmax": 7,
-    "tmin": 1,
-    "wind_kmh": 7
+    "wind_kmh": 18
    },
    {
     "code": 3,
-    "day": "2026-12-04",
+    "day": "2026-12-01",
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 4,
-    "tmax": 7,
-    "tmin": 1,
-    "wind_kmh": 6
+    "precip_prob": 13,
+    "tmax": 5,
+    "tmin": 2,
+    "wind_kmh": 18
+   },
+   {
+    "code": 51,
+    "day": "2026-12-02",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 2.2,
+    "precip_prob": 58,
+    "tmax": 9,
+    "tmin": 4,
+    "wind_kmh": 20
+   },
+   {
+    "code": 51,
+    "day": "2026-12-03",
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.2,
+    "precip_prob": 30,
+    "tmax": 9,
+    "tmin": 2,
+    "wind_kmh": 15
+   },
+   {
+    "code": 45,
+    "day": "2026-12-04",
+    "emoji": "🌫️",
+    "label": "Brouillard",
+    "precip_mm": 0.0,
+    "precip_prob": 2,
+    "tmax": 5,
+    "tmin": 0,
+    "wind_kmh": 5
    }
   ],
   "read_on": "2026-11-28"
