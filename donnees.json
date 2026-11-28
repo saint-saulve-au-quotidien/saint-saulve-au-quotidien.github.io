@@ -276,36 +276,25 @@
   "days": [
    {
     "code": 3,
-    "day": "2026-11-27",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
-    "precip_mm": 0.0,
-    "precip_prob": 0,
-    "tmax": 3,
-    "tmin": -3,
-    "wind_kmh": 9
-   },
-   {
-    "code": 3,
     "day": "2026-11-28",
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 2,
+    "precip_prob": 3,
     "tmax": 3,
     "tmin": -2,
-    "wind_kmh": 23
+    "wind_kmh": 21
    },
    {
-    "code": 53,
+    "code": 55,
     "day": "2026-11-29",
     "emoji": "🌦️",
-    "label": "Bruine",
+    "label": "Bruine dense",
     "precip_mm": 2.8,
-    "precip_prob": 85,
+    "precip_prob": 79,
     "tmax": 4,
     "tmin": 0,
-    "wind_kmh": 20
+    "wind_kmh": 18
    },
    {
     "code": 45,
@@ -313,46 +302,57 @@
     "emoji": "🌫️",
     "label": "Brouillard",
     "precip_mm": 0.0,
-    "precip_prob": 8,
+    "precip_prob": 4,
     "tmax": 6,
-    "tmin": 1,
-    "wind_kmh": 15
+    "tmin": 0,
+    "wind_kmh": 14
    },
    {
-    "code": 3,
+    "code": 51,
     "day": "2026-12-01",
-    "emoji": "☁️",
-    "label": "Ciel couvert",
-    "precip_mm": 0.0,
-    "precip_prob": 12,
+    "emoji": "🌦️",
+    "label": "Bruine faible",
+    "precip_mm": 0.1,
+    "precip_prob": 20,
     "tmax": 5,
-    "tmin": 0,
-    "wind_kmh": 18
+    "tmin": 1,
+    "wind_kmh": 20
    },
    {
     "code": 53,
     "day": "2026-12-02",
     "emoji": "🌦️",
     "label": "Bruine",
-    "precip_mm": 5.7,
-    "precip_prob": 47,
+    "precip_mm": 3.2,
+    "precip_prob": 61,
     "tmax": 10,
     "tmin": 4,
-    "wind_kmh": 27
+    "wind_kmh": 24
+   },
+   {
+    "code": 45,
+    "day": "2026-12-03",
+    "emoji": "🌫️",
+    "label": "Brouillard",
+    "precip_mm": 0.0,
+    "precip_prob": 16,
+    "tmax": 7,
+    "tmin": 1,
+    "wind_kmh": 7
    },
    {
     "code": 3,
-    "day": "2026-12-03",
+    "day": "2026-12-04",
     "emoji": "☁️",
     "label": "Ciel couvert",
     "precip_mm": 0.0,
-    "precip_prob": 10,
-    "tmax": 8,
-    "tmin": 2,
-    "wind_kmh": 10
+    "precip_prob": 4,
+    "tmax": 7,
+    "tmin": 1,
+    "wind_kmh": 6
    }
   ],
-  "read_on": "2026-11-27"
+  "read_on": "2026-11-28"
  },
  "station_names": {
   "59243002": {
