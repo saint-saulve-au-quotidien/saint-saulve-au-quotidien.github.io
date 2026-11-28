@@ -286,15 +286,15 @@
     "wind_kmh": 22
    },
    {
-    "code": 61,
+    "code": 53,
     "day": "2026-11-29",
-    "emoji": "🌧️",
-    "label": "Pluie faible",
-    "precip_mm": 5.8,
+    "emoji": "🌦️",
+    "label": "Bruine",
+    "precip_mm": 3.6,
     "precip_prob": 67,
     "tmax": 3,
     "tmin": 1,
-    "wind_kmh": 24
+    "wind_kmh": 22
    },
    {
     "code": 45,
